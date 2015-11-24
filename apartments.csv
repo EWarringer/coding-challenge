@@ -1,0 +1,1001 @@
+Id,Latitude,Longitude,Bedrooms,Bathrooms,Square footage,Price,Amenities
+1,42.325319,-71.1424,2,1,1162,2722,Secure Entrance|Central Air|Picnic Area|Pool|Washer/Dryer|Granite Countertops|Stainless Steel Appliances|Off-Street Parking|Fitness Center|Utilities Included
+2,42.400188,-71.123543,0,1,260,948,Central Air|Fitness Center
+3,42.390901,-71.15241,3,3,2016,3418,Washer/Dryer|Central Air|Utilities Included
+4,42.351352,-71.109718,2,1,1163,2583,Granite Countertops|Utilities Included|Stainless Steel Appliances|Washer/Dryer|Off-Street Parking|Picnic Area|Pool|Fitness Center|Central Air|Dishwasher|Secure Entrance
+5,42.383498,-71.130352,2,2,1006,2800,Granite Countertops|Washer/Dryer
+6,42.406245,-71.09368,1,1,1039,2141,Central Air|Fitness Center|Utilities Included|Stainless Steel Appliances|Washer/Dryer|Secure Entrance|Off-Street Parking|Granite Countertops|Dishwasher
+7,42.331336,-71.06437,2,1,1716,2575,Fitness Center
+8,42.381828,-71.087572,2,2,1521,2659,Fitness Center|Secure Entrance|Utilities Included|Stainless Steel Appliances|Pool|Granite Countertops|Central Air|Washer/Dryer|Dishwasher|Off-Street Parking
+9,42.393807,-71.084262,2,1,1504,2417,Central Air|Picnic Area|Granite Countertops|Stainless Steel Appliances
+10,42.322515,-71.08827,0,1,548,1035,Secure Entrance|Picnic Area|Off-Street Parking
+11,42.359848,-71.135072,1,1,1216,1519,Central Air|Pool|Picnic Area
+12,42.325207,-71.090351,1,1,851,1350,Stainless Steel Appliances|Washer/Dryer|Dishwasher|Secure Entrance|Central Air
+13,42.358593,-71.112251,3,3,2024,3552,Dishwasher
+14,42.328685,-71.070326,2,1,1278,2333,Central Air|Stainless Steel Appliances|Granite Countertops|Utilities Included
+15,42.346526,-71.062588,4,2,2774,3822,Pool|Central Air|Picnic Area|Fitness Center
+16,42.325596,-71.104317,4,1,2249,4319,Secure Entrance|Granite Countertops|Utilities Included|Central Air|Picnic Area|Off-Street Parking|Fitness Center|Dishwasher|Stainless Steel Appliances
+17,42.343011,-71.079141,4,1,2706,3710,Dishwasher|Stainless Steel Appliances|Central Air|Utilities Included|Washer/Dryer|Picnic Area|Secure Entrance|Pool|Granite Countertops
+18,42.348196,-71.145972,1,1,859,1995,Off-Street Parking|Utilities Included|Dishwasher|Central Air|Picnic Area|Fitness Center|Pool|Granite Countertops|Secure Entrance|Stainless Steel Appliances|Washer/Dryer
+19,42.355464,-71.054234,0,1,457,927,Utilities Included|Fitness Center
+20,42.381384,-71.070698,0,1,397,1005,Stainless Steel Appliances|Pool|Secure Entrance|Granite Countertops|Picnic Area|Off-Street Parking|Dishwasher
+21,42.354026,-71.075243,2,2,1442,3091,Secure Entrance|Off-Street Parking|Dishwasher|Picnic Area|Pool|Stainless Steel Appliances|Central Air
+22,42.397197,-71.1447,3,3,2161,3200,Secure Entrance|Central Air|Washer/Dryer|Granite Countertops|Picnic Area
+23,42.317827,-71.07134,0,1,273,999,Dishwasher|Off-Street Parking|Fitness Center|Stainless Steel Appliances|Central Air|Picnic Area|Utilities Included|Pool
+24,42.330942,-71.118034,1,1,1048,1534,Stainless Steel Appliances
+25,42.410778,-71.085357,3,1,2008,3271,Granite Countertops|Utilities Included|Central Air|Picnic Area|Dishwasher|Fitness Center|Secure Entrance|Washer/Dryer|Off-Street Parking|Pool|Stainless Steel Appliances
+26,42.377255,-71.081245,3,2,1866,3432,Picnic Area|Fitness Center|Central Air|Secure Entrance|Washer/Dryer|Dishwasher|Granite Countertops|Off-Street Parking|Stainless Steel Appliances|Pool
+27,42.411174,-71.096177,0,1,553,1019,Dishwasher|Pool
+28,42.409224,-71.115412,1,1,994,1847,Pool|Secure Entrance|Fitness Center|Central Air|Off-Street Parking|Dishwasher|Utilities Included
+29,42.393124,-71.146982,4,2,2277,4067,Utilities Included|Fitness Center|Stainless Steel Appliances|Dishwasher|Washer/Dryer|Granite Countertops|Pool|Picnic Area|Central Air|Off-Street Parking
+30,42.395606,-71.084634,1,1,1031,1899,Off-Street Parking|Utilities Included|Granite Countertops|Picnic Area|Fitness Center|Pool|Dishwasher|Stainless Steel Appliances|Washer/Dryer|Secure Entrance|Central Air
+31,42.396266,-71.07087,1,1,872,1936,Off-Street Parking|Utilities Included|Central Air|Picnic Area|Stainless Steel Appliances|Pool|Dishwasher|Granite Countertops|Fitness Center|Secure Entrance
+32,42.397486,-71.060271,4,4,2201,4310,Fitness Center|Picnic Area|Stainless Steel Appliances|Utilities Included|Pool|Dishwasher|Central Air|Secure Entrance
+33,42.380922,-71.099553,4,3,2843,3770,Utilities Included|Pool
+34,42.372034,-71.0596,0,1,272,853,Central Air|Granite Countertops
+35,42.323086,-71.142763,1,1,1127,1885,Dishwasher|Fitness Center
+36,42.381756,-71.152786,4,3,2409,3963,Utilities Included|Granite Countertops|Fitness Center|Secure Entrance|Off-Street Parking
+37,42.325473,-71.073977,0,1,444,1064,Picnic Area|Secure Entrance|Fitness Center|Central Air|Dishwasher|Washer/Dryer|Off-Street Parking
+38,42.354518,-71.055298,1,1,1075,1691,Picnic Area
+39,42.387811,-71.081406,1,1,816,1855,Off-Street Parking|Picnic Area|Washer/Dryer|Dishwasher|Fitness Center|Secure Entrance|Central Air|Utilities Included|Stainless Steel Appliances|Pool|Granite Countertops
+40,42.332622,-71.10583,2,1,1598,2680,Dishwasher|Granite Countertops|Washer/Dryer|Off-Street Parking
+41,42.379912,-71.126471,2,1,948,2442,Secure Entrance|Granite Countertops|Central Air|Stainless Steel Appliances|Off-Street Parking|Picnic Area|Dishwasher
+42,42.337089,-71.129925,3,3,1881,3832,Off-Street Parking|Fitness Center|Secure Entrance|Utilities Included|Granite Countertops|Stainless Steel Appliances|Dishwasher|Washer/Dryer
+43,42.324056,-71.130477,0,1,277,1107,Picnic Area|Washer/Dryer|Off-Street Parking|Utilities Included|Dishwasher
+44,42.389472,-71.118484,0,1,392,825,Central Air|Dishwasher
+45,42.383957,-71.097771,0,1,615,1080,Washer/Dryer|Central Air|Stainless Steel Appliances|Picnic Area|Pool|Off-Street Parking|Utilities Included|Dishwasher|Granite Countertops|Fitness Center
+46,42.357049,-71.131717,4,2,2972,4096,Stainless Steel Appliances|Secure Entrance|Granite Countertops|Washer/Dryer|Pool
+47,42.376424,-71.062068,2,1,1528,2685,Washer/Dryer|Secure Entrance|Utilities Included|Fitness Center|Pool|Central Air|Stainless Steel Appliances|Granite Countertops|Picnic Area|Off-Street Parking|Dishwasher
+48,42.390448,-71.136853,0,1,270,859,Central Air|Pool|Dishwasher|Picnic Area
+49,42.410179,-71.08271,0,1,266,908,Washer/Dryer|Off-Street Parking|Pool|Central Air|Secure Entrance|Stainless Steel Appliances
+50,42.370766,-71.10935,0,1,643,1029,Picnic Area|Stainless Steel Appliances|Fitness Center|Washer/Dryer|Off-Street Parking
+51,42.376475,-71.060771,4,2,2141,4319,Central Air|Picnic Area|Fitness Center|Stainless Steel Appliances|Secure Entrance|Utilities Included
+52,42.371412,-71.080853,1,1,1169,1601,Pool|Secure Entrance|Granite Countertops|Stainless Steel Appliances
+53,42.406051,-71.090016,3,3,1803,3700,Pool|Utilities Included
+54,42.384046,-71.071197,2,2,1525,2958,Dishwasher|Washer/Dryer|Off-Street Parking|Central Air|Picnic Area|Utilities Included|Stainless Steel Appliances|Granite Countertops
+55,42.389936,-71.061253,3,1,2265,2826,Granite Countertops|Central Air|Dishwasher|Washer/Dryer|Picnic Area
+56,42.371728,-71.131907,2,1,1277,2029,Off-Street Parking|Picnic Area
+57,42.405355,-71.069586,2,2,957,2603,Dishwasher|Central Air|Granite Countertops|Picnic Area|Washer/Dryer|Stainless Steel Appliances|Pool|Off-Street Parking|Utilities Included|Fitness Center
+58,42.318669,-71.150347,3,3,1321,3859,Stainless Steel Appliances|Central Air|Pool|Picnic Area
+59,42.412253,-71.148885,4,2,2073,4047,Picnic Area|Washer/Dryer|Pool|Stainless Steel Appliances
+60,42.378945,-71.098951,2,2,1371,3190,Utilities Included|Pool|Secure Entrance|Off-Street Parking|Granite Countertops|Dishwasher|Stainless Steel Appliances|Central Air|Fitness Center|Washer/Dryer|Picnic Area
+61,42.373656,-71.069914,2,2,1129,2681,Utilities Included
+62,42.397879,-71.126662,2,1,1336,2880,Pool|Fitness Center|Stainless Steel Appliances|Granite Countertops|Off-Street Parking|Picnic Area
+63,42.358345,-71.153,1,1,1098,1893,Granite Countertops|Secure Entrance|Picnic Area|Central Air|Stainless Steel Appliances|Washer/Dryer|Utilities Included|Dishwasher|Pool|Fitness Center
+64,42.414607,-71.091228,1,1,602,1842,Off-Street Parking|Central Air
+65,42.325787,-71.096875,4,2,2485,3955,Pool|Utilities Included|Secure Entrance|Off-Street Parking|Stainless Steel Appliances|Dishwasher
+66,42.385304,-71.083379,3,1,2203,3449,Central Air|Off-Street Parking|Fitness Center|Secure Entrance|Washer/Dryer
+67,42.385943,-71.073568,0,1,693,1086,Dishwasher|Pool|Off-Street Parking|Picnic Area|Stainless Steel Appliances|Secure Entrance|Granite Countertops|Utilities Included|Central Air
+68,42.336515,-71.126305,4,2,3011,3401,Central Air|Stainless Steel Appliances|Granite Countertops
+69,42.384244,-71.093351,3,2,1984,3043,Washer/Dryer|Stainless Steel Appliances|Dishwasher|Central Air|Secure Entrance|Picnic Area|Utilities Included|Off-Street Parking|Fitness Center|Granite Countertops|Pool
+70,42.364114,-71.09563,2,1,1657,2152,Dishwasher|Washer/Dryer|Off-Street Parking|Fitness Center|Picnic Area
+71,42.319543,-71.06379,0,1,420,891,Washer/Dryer|Pool|Dishwasher
+72,42.393108,-71.086085,4,2,2078,3412,Utilities Included|Stainless Steel Appliances|Pool|Secure Entrance|Washer/Dryer|Dishwasher|Picnic Area|Fitness Center
+73,42.3865,-71.081267,4,3,1714,4398,Granite Countertops|Dishwasher|Utilities Included|Fitness Center|Central Air|Pool
+74,42.371769,-71.139063,1,1,919,1385,Washer/Dryer|Fitness Center|Secure Entrance|Picnic Area
+75,42.409363,-71.076524,0,1,354,1165,Central Air|Granite Countertops|Washer/Dryer|Off-Street Parking|Fitness Center|Stainless Steel Appliances|Secure Entrance|Utilities Included|Picnic Area|Dishwasher
+76,42.404204,-71.095678,2,2,1453,2963,Washer/Dryer|Granite Countertops|Off-Street Parking|Stainless Steel Appliances|Fitness Center|Picnic Area|Dishwasher|Utilities Included
+77,42.393756,-71.056746,1,1,1061,1610,Pool|Dishwasher|Utilities Included|Picnic Area|Secure Entrance|Fitness Center|Off-Street Parking|Stainless Steel Appliances|Central Air
+78,42.34427,-71.138876,2,1,1676,2860,Off-Street Parking|Stainless Steel Appliances|Washer/Dryer|Secure Entrance|Picnic Area|Central Air|Fitness Center|Pool|Granite Countertops|Dishwasher
+79,42.362671,-71.123488,3,1,2147,3470,Picnic Area|Off-Street Parking|Dishwasher|Stainless Steel Appliances|Pool|Secure Entrance|Granite Countertops|Fitness Center|Washer/Dryer
+80,42.404745,-71.064423,4,1,2090,3910,Picnic Area|Washer/Dryer|Pool
+81,42.413651,-71.085364,1,1,1115,1729,Picnic Area
+82,42.344722,-71.119397,1,1,950,1631,Utilities Included|Dishwasher|Secure Entrance
+83,42.399028,-71.141484,1,1,854,1955,Dishwasher|Stainless Steel Appliances|Secure Entrance|Picnic Area|Utilities Included|Washer/Dryer|Pool|Granite Countertops
+84,42.407432,-71.092166,0,1,693,1134,Pool|Stainless Steel Appliances|Central Air|Granite Countertops|Off-Street Parking|Utilities Included|Secure Entrance|Picnic Area
+85,42.375242,-71.061289,0,1,497,968,Granite Countertops|Stainless Steel Appliances
+86,42.407686,-71.105002,1,1,950,2003,Picnic Area|Granite Countertops|Dishwasher|Off-Street Parking|Washer/Dryer|Central Air
+87,42.403804,-71.12239,0,1,306,1016,Stainless Steel Appliances|Washer/Dryer|Dishwasher|Central Air|Pool
+88,42.392263,-71.127043,3,1,1766,3442,Washer/Dryer|Fitness Center|Dishwasher
+89,42.377301,-71.145374,4,4,2427,4168,Utilities Included|Off-Street Parking|Washer/Dryer|Central Air|Fitness Center|Pool|Granite Countertops|Stainless Steel Appliances
+90,42.391712,-71.075575,0,1,355,891,Secure Entrance|Granite Countertops|Picnic Area|Off-Street Parking
+91,42.326656,-71.12059,2,1,1153,2673,Granite Countertops
+92,42.335957,-71.145965,4,2,2133,4082,Secure Entrance|Off-Street Parking|Picnic Area|Stainless Steel Appliances|Washer/Dryer|Utilities Included|Dishwasher|Granite Countertops|Pool
+93,42.319488,-71.131471,1,1,612,1693,Utilities Included
+94,42.402687,-71.106954,2,1,1396,2535,Off-Street Parking|Stainless Steel Appliances|Fitness Center|Granite Countertops
+95,42.411865,-71.110767,0,1,690,1034,Utilities Included|Dishwasher|Pool|Washer/Dryer|Fitness Center|Stainless Steel Appliances|Central Air|Granite Countertops|Off-Street Parking|Picnic Area
+96,42.382791,-71.128385,4,2,2204,3464,Fitness Center|Dishwasher|Utilities Included
+97,42.342568,-71.085696,3,2,1367,2804,Pool
+98,42.375735,-71.093357,1,1,853,1741,Granite Countertops|Utilities Included|Secure Entrance|Dishwasher
+99,42.392246,-71.14348,1,1,940,1724,Picnic Area|Dishwasher|Secure Entrance|Off-Street Parking|Fitness Center|Pool
+100,42.372729,-71.084243,0,1,392,792,Picnic Area
+101,42.342137,-71.081602,4,3,2129,3905,Fitness Center|Pool|Utilities Included|Washer/Dryer|Stainless Steel Appliances
+102,42.378967,-71.09691,3,1,1855,3626,Picnic Area|Stainless Steel Appliances|Granite Countertops|Off-Street Parking|Dishwasher|Secure Entrance|Central Air|Washer/Dryer
+103,42.316735,-71.133449,1,1,943,1730,Off-Street Parking|Utilities Included|Washer/Dryer|Fitness Center|Stainless Steel Appliances|Central Air|Secure Entrance|Dishwasher
+104,42.355189,-71.125133,0,1,740,783,Picnic Area|Stainless Steel Appliances
+105,42.354595,-71.061937,4,4,2096,4438,Secure Entrance|Fitness Center|Granite Countertops|Dishwasher|Stainless Steel Appliances|Central Air|Off-Street Parking|Washer/Dryer
+106,42.353038,-71.067011,0,1,633,1144,Granite Countertops|Fitness Center|Washer/Dryer|Dishwasher|Pool|Stainless Steel Appliances|Utilities Included
+107,42.323039,-71.100667,2,1,987,2597,Utilities Included|Granite Countertops|Central Air|Dishwasher|Picnic Area
+108,42.366368,-71.080767,2,1,1504,2158,Utilities Included|Secure Entrance|Stainless Steel Appliances|Washer/Dryer
+109,42.413445,-71.109711,1,1,713,2130,Central Air|Stainless Steel Appliances|Utilities Included|Washer/Dryer|Fitness Center|Picnic Area|Secure Entrance|Dishwasher|Pool|Off-Street Parking|Granite Countertops
+110,42.330302,-71.098455,1,1,987,1750,Secure Entrance|Pool|Off-Street Parking|Stainless Steel Appliances|Fitness Center|Dishwasher|Central Air|Utilities Included
+111,42.34789,-71.134698,1,1,1003,2154,Fitness Center|Secure Entrance|Off-Street Parking|Central Air|Picnic Area|Granite Countertops|Stainless Steel Appliances|Dishwasher|Utilities Included|Pool|Washer/Dryer
+112,42.331428,-71.074687,1,1,1100,1810,Pool|Fitness Center
+113,42.348318,-71.118438,4,3,2263,4146,Picnic Area|Dishwasher|Central Air|Fitness Center|Washer/Dryer|Pool|Off-Street Parking|Granite Countertops|Stainless Steel Appliances
+114,42.365074,-71.121506,3,1,1669,3496,Secure Entrance|Picnic Area|Central Air|Off-Street Parking
+115,42.400266,-71.123666,1,1,1023,2104,Secure Entrance|Fitness Center|Washer/Dryer|Utilities Included|Off-Street Parking|Picnic Area|Stainless Steel Appliances|Pool
+116,42.334794,-71.119195,4,2,2134,3924,Fitness Center|Picnic Area|Utilities Included|Washer/Dryer|Central Air|Pool|Dishwasher|Granite Countertops
+117,42.391051,-71.118407,1,1,1101,1515,Washer/Dryer|Dishwasher|Pool|Picnic Area
+118,42.352345,-71.136091,0,1,527,1111,Central Air|Dishwasher|Granite Countertops|Washer/Dryer|Utilities Included|Stainless Steel Appliances|Picnic Area|Secure Entrance|Fitness Center
+119,42.359658,-71.15281,3,3,1875,4128,Granite Countertops|Washer/Dryer|Picnic Area|Pool
+120,42.36121,-71.062828,1,1,1019,1775,Picnic Area|Central Air|Stainless Steel Appliances|Pool|Secure Entrance|Utilities Included|Dishwasher|Granite Countertops|Fitness Center|Washer/Dryer|Off-Street Parking
+121,42.369794,-71.099389,3,3,1613,3908,Pool|Fitness Center|Off-Street Parking|Utilities Included|Central Air|Washer/Dryer|Granite Countertops|Dishwasher|Stainless Steel Appliances|Picnic Area
+122,42.376326,-71.123637,2,1,1017,2319,Dishwasher|Washer/Dryer|Fitness Center|Utilities Included|Off-Street Parking|Stainless Steel Appliances|Pool
+123,42.351392,-71.104283,1,1,837,1785,Utilities Included|Fitness Center|Central Air
+124,42.329669,-71.062223,1,1,976,1814,Secure Entrance|Washer/Dryer|Utilities Included|Dishwasher|Granite Countertops|Off-Street Parking|Pool|Central Air|Fitness Center
+125,42.338178,-71.130274,2,2,1556,2980,Washer/Dryer|Secure Entrance|Pool|Stainless Steel Appliances|Granite Countertops|Central Air|Dishwasher|Off-Street Parking|Utilities Included|Picnic Area|Fitness Center
+126,42.330136,-71.067274,0,1,685,807,Fitness Center
+127,42.39991,-71.068997,2,2,1510,3022,Dishwasher|Pool|Picnic Area|Central Air|Granite Countertops
+128,42.371379,-71.065181,4,1,2205,4177,Picnic Area|Secure Entrance|Granite Countertops|Central Air|Pool|Off-Street Parking
+129,42.371751,-71.098481,1,1,1164,1935,Secure Entrance|Fitness Center|Picnic Area|Off-Street Parking|Dishwasher|Granite Countertops|Stainless Steel Appliances|Utilities Included|Washer/Dryer|Pool
+130,42.361742,-71.132831,1,1,666,1807,Utilities Included|Off-Street Parking|Central Air
+131,42.32606,-71.058108,1,1,749,1415,Washer/Dryer|Picnic Area|Pool|Stainless Steel Appliances|Secure Entrance|Fitness Center
+132,42.41323,-71.070548,3,3,2170,3618,Stainless Steel Appliances|Picnic Area|Central Air|Fitness Center
+133,42.334496,-71.080502,0,1,379,896,Central Air|Pool|Granite Countertops|Secure Entrance|Dishwasher|Fitness Center|Picnic Area
+134,42.398878,-71.127583,2,1,1500,2565,Pool|Stainless Steel Appliances|Fitness Center|Utilities Included|Picnic Area|Central Air|Dishwasher|Granite Countertops|Off-Street Parking|Secure Entrance
+135,42.325137,-71.137169,1,1,791,1644,Central Air|Fitness Center|Granite Countertops|Washer/Dryer|Dishwasher|Utilities Included|Stainless Steel Appliances
+136,42.325192,-71.147763,2,2,1674,2874,Off-Street Parking|Dishwasher|Picnic Area|Pool|Central Air|Washer/Dryer|Fitness Center|Granite Countertops|Stainless Steel Appliances|Utilities Included
+137,42.401562,-71.147456,0,1,257,1043,Pool|Fitness Center|Utilities Included|Secure Entrance|Dishwasher|Picnic Area|Stainless Steel Appliances|Granite Countertops|Off-Street Parking
+138,42.377112,-71.084469,3,2,1389,3356,Washer/Dryer|Dishwasher
+139,42.326156,-71.145672,2,1,1276,2451,Fitness Center|Central Air|Washer/Dryer|Pool|Picnic Area|Utilities Included|Dishwasher|Secure Entrance|Stainless Steel Appliances
+140,42.38628,-71.102071,3,1,1915,3577,Central Air|Washer/Dryer|Off-Street Parking|Picnic Area|Secure Entrance
+141,42.406372,-71.118384,0,1,701,890,Dishwasher|Granite Countertops|Off-Street Parking|Central Air|Fitness Center
+142,42.375775,-71.152044,0,1,642,950,Fitness Center|Stainless Steel Appliances|Washer/Dryer|Picnic Area|Central Air
+143,42.368026,-71.061635,0,1,687,1191,Washer/Dryer|Off-Street Parking|Stainless Steel Appliances|Utilities Included|Pool|Picnic Area|Fitness Center|Granite Countertops|Secure Entrance
+144,42.330261,-71.08277,1,1,805,1657,Washer/Dryer|Dishwasher|Granite Countertops
+145,42.32089,-71.070774,2,1,1351,2519,Central Air|Fitness Center|Utilities Included
+146,42.405477,-71.087765,2,2,1101,2457,Stainless Steel Appliances|Secure Entrance
+147,42.403988,-71.108452,4,2,2597,4321,Stainless Steel Appliances|Pool|Dishwasher|Picnic Area|Central Air|Utilities Included|Secure Entrance|Granite Countertops|Fitness Center
+148,42.360222,-71.083895,3,3,1347,4145,Washer/Dryer
+149,42.331436,-71.089722,2,1,1792,2409,Central Air
+150,42.391841,-71.112617,1,1,1206,1472,Fitness Center|Granite Countertops
+151,42.382819,-71.056585,0,1,673,1011,Secure Entrance|Central Air|Off-Street Parking|Fitness Center|Utilities Included|Pool|Stainless Steel Appliances|Granite Countertops
+152,42.346829,-71.113441,1,1,937,1585,Pool|Fitness Center|Dishwasher|Secure Entrance|Off-Street Parking|Washer/Dryer|Granite Countertops|Picnic Area|Central Air|Utilities Included|Stainless Steel Appliances
+153,42.323282,-71.135981,1,1,837,1763,Fitness Center
+154,42.397207,-71.064642,2,2,1574,3102,Utilities Included|Stainless Steel Appliances
+155,42.315495,-71.06351,1,1,1323,2129,Fitness Center|Pool|Washer/Dryer|Dishwasher|Off-Street Parking|Granite Countertops|Picnic Area
+156,42.314932,-71.146803,3,2,2340,3020,Central Air
+157,42.40912,-71.112136,1,1,840,1698,Pool|Secure Entrance|Washer/Dryer|Picnic Area|Granite Countertops
+158,42.345241,-71.145218,2,2,1461,2791,Central Air|Stainless Steel Appliances|Picnic Area|Off-Street Parking|Granite Countertops|Washer/Dryer
+159,42.324615,-71.101509,2,2,1087,2782,Washer/Dryer|Off-Street Parking
+160,42.339648,-71.127149,2,1,1089,2787,Secure Entrance|Picnic Area|Central Air|Pool|Utilities Included|Off-Street Parking
+161,42.322407,-71.067989,0,1,727,1055,Dishwasher|Central Air|Pool|Off-Street Parking|Utilities Included|Secure Entrance|Washer/Dryer|Granite Countertops|Stainless Steel Appliances|Picnic Area|Fitness Center
+162,42.399823,-71.125747,1,1,655,1903,Granite Countertops
+163,42.391505,-71.119219,0,1,548,1119,Utilities Included|Picnic Area|Granite Countertops|Dishwasher|Off-Street Parking|Stainless Steel Appliances|Fitness Center|Washer/Dryer
+164,42.346599,-71.083677,3,2,1839,3514,Off-Street Parking|Utilities Included|Washer/Dryer|Dishwasher|Fitness Center|Picnic Area|Granite Countertops
+165,42.387173,-71.054256,3,2,2028,3503,Secure Entrance|Dishwasher|Utilities Included|Picnic Area|Stainless Steel Appliances
+166,42.39983,-71.142279,1,1,767,1794,Dishwasher|Secure Entrance
+167,42.403467,-71.144698,3,3,1699,3941,Stainless Steel Appliances|Picnic Area
+168,42.327312,-71.077605,3,2,1688,3343,Off-Street Parking|Pool|Dishwasher|Picnic Area|Secure Entrance
+169,42.40205,-71.144443,4,1,2542,4323,Stainless Steel Appliances|Washer/Dryer|Central Air|Utilities Included|Picnic Area|Dishwasher|Fitness Center|Secure Entrance|Off-Street Parking|Granite Countertops|Pool
+170,42.38562,-71.144064,1,1,1325,1632,Secure Entrance|Granite Countertops|Off-Street Parking|Pool|Fitness Center
+171,42.326185,-71.140912,2,1,1605,2760,Utilities Included|Granite Countertops|Off-Street Parking|Central Air|Fitness Center
+172,42.343033,-71.053544,3,2,2235,2888,Utilities Included
+173,42.364268,-71.091363,2,2,1274,2647,Central Air|Dishwasher|Secure Entrance|Off-Street Parking|Picnic Area|Washer/Dryer
+174,42.379103,-71.127264,3,2,2099,3142,Secure Entrance|Off-Street Parking|Granite Countertops|Washer/Dryer|Stainless Steel Appliances|Dishwasher|Fitness Center|Picnic Area
+175,42.325917,-71.07671,4,4,2235,4354,Fitness Center|Secure Entrance|Pool|Washer/Dryer|Off-Street Parking|Dishwasher|Stainless Steel Appliances
+176,42.397797,-71.07838,0,1,519,1056,Secure Entrance|Fitness Center|Granite Countertops|Off-Street Parking|Stainless Steel Appliances|Picnic Area|Central Air|Pool|Dishwasher
+177,42.402322,-71.147822,0,1,447,1073,Dishwasher|Granite Countertops|Off-Street Parking|Secure Entrance|Central Air|Utilities Included|Stainless Steel Appliances
+178,42.384549,-71.094357,4,1,2585,4373,Stainless Steel Appliances|Off-Street Parking|Utilities Included|Pool|Granite Countertops
+179,42.397553,-71.073611,4,3,2344,4520,Utilities Included|Washer/Dryer|Granite Countertops
+180,42.352527,-71.137837,3,1,1759,2890,Granite Countertops|Central Air|Dishwasher|Stainless Steel Appliances|Secure Entrance|Utilities Included
+181,42.328803,-71.089892,4,1,2401,3939,Stainless Steel Appliances|Pool
+182,42.366928,-71.148683,0,1,335,1007,Dishwasher|Pool|Washer/Dryer|Secure Entrance|Off-Street Parking|Granite Countertops|Utilities Included
+183,42.406452,-71.075868,1,1,939,1676,Dishwasher|Stainless Steel Appliances|Pool|Granite Countertops|Utilities Included|Washer/Dryer
+184,42.352702,-71.101535,1,1,960,1592,Granite Countertops|Central Air
+185,42.34723,-71.128025,0,1,434,1106,Secure Entrance|Utilities Included|Off-Street Parking
+186,42.378168,-71.145011,2,2,1792,3096,Utilities Included|Dishwasher|Central Air|Picnic Area|Washer/Dryer
+187,42.357478,-71.10611,2,1,1437,2202,Utilities Included
+188,42.326044,-71.137653,4,1,2140,4215,Dishwasher|Secure Entrance|Picnic Area|Pool|Washer/Dryer|Granite Countertops|Utilities Included
+189,42.338995,-71.14257,0,1,435,814,Washer/Dryer|Central Air
+190,42.392386,-71.084626,3,1,1780,3035,Granite Countertops
+191,42.322719,-71.103123,0,1,688,1075,Central Air|Secure Entrance|Off-Street Parking
+192,42.341523,-71.05814,4,3,2525,4184,Secure Entrance|Picnic Area|Granite Countertops|Fitness Center|Off-Street Parking|Utilities Included|Washer/Dryer|Dishwasher|Central Air|Stainless Steel Appliances
+193,42.317641,-71.137775,0,1,647,1082,Dishwasher|Pool|Secure Entrance|Fitness Center|Central Air|Picnic Area|Utilities Included|Granite Countertops|Stainless Steel Appliances
+194,42.355679,-71.1253,0,1,337,1095,Washer/Dryer|Off-Street Parking|Dishwasher|Utilities Included|Picnic Area|Stainless Steel Appliances|Pool|Secure Entrance|Central Air|Granite Countertops|Fitness Center
+195,42.381273,-71.058441,0,1,581,1142,Off-Street Parking|Washer/Dryer|Picnic Area|Stainless Steel Appliances|Pool|Fitness Center
+196,42.414519,-71.092379,2,1,1364,2254,Granite Countertops|Central Air|Pool|Secure Entrance
+197,42.354661,-71.083831,0,1,739,1035,Utilities Included|Central Air|Secure Entrance|Granite Countertops|Picnic Area|Stainless Steel Appliances|Fitness Center
+198,42.346894,-71.103856,4,1,2344,4033,Fitness Center|Utilities Included|Off-Street Parking
+199,42.357682,-71.07466,1,1,874,1657,Off-Street Parking|Dishwasher|Stainless Steel Appliances|Washer/Dryer|Granite Countertops|Pool
+200,42.36518,-71.094299,4,4,2330,4296,Fitness Center|Granite Countertops|Central Air|Secure Entrance|Picnic Area
+201,42.336121,-71.123215,3,1,2041,3174,Granite Countertops|Off-Street Parking|Picnic Area
+202,42.34171,-71.129576,1,1,950,1545,Central Air|Secure Entrance|Dishwasher|Fitness Center|Stainless Steel Appliances|Granite Countertops|Pool
+203,42.376059,-71.077945,1,1,1006,1530,Fitness Center|Stainless Steel Appliances|Off-Street Parking|Secure Entrance
+204,42.34532,-71.063493,2,2,998,2959,Fitness Center|Granite Countertops|Stainless Steel Appliances|Utilities Included|Pool|Secure Entrance
+205,42.398143,-71.109527,3,1,2156,3824,Secure Entrance|Fitness Center|Washer/Dryer|Stainless Steel Appliances|Central Air|Picnic Area|Off-Street Parking|Pool|Dishwasher|Utilities Included
+206,42.379185,-71.05778,2,1,1227,2304,Stainless Steel Appliances
+207,42.349048,-71.066001,3,1,1747,3360,Stainless Steel Appliances|Granite Countertops|Picnic Area|Dishwasher|Washer/Dryer|Secure Entrance|Pool|Off-Street Parking|Fitness Center|Utilities Included|Central Air
+208,42.385748,-71.080996,0,1,707,910,Central Air|Pool|Dishwasher
+209,42.340184,-71.129603,0,1,304,948,Granite Countertops
+210,42.337418,-71.118546,4,4,2081,4445,Washer/Dryer|Pool|Stainless Steel Appliances|Fitness Center|Dishwasher|Central Air|Off-Street Parking|Granite Countertops|Secure Entrance|Utilities Included
+211,42.321147,-71.098301,1,1,1224,1812,Fitness Center|Pool|Washer/Dryer|Picnic Area|Granite Countertops|Off-Street Parking|Dishwasher
+212,42.377447,-71.144052,1,1,945,1821,Pool|Fitness Center|Secure Entrance|Washer/Dryer|Stainless Steel Appliances|Off-Street Parking
+213,42.371928,-71.077311,2,1,1490,2703,Picnic Area|Utilities Included|Off-Street Parking|Secure Entrance|Granite Countertops|Fitness Center|Pool|Stainless Steel Appliances|Dishwasher|Central Air
+214,42.346833,-71.055095,4,4,2322,4588,Granite Countertops|Secure Entrance|Utilities Included|Off-Street Parking|Pool|Dishwasher
+215,42.411765,-71.112269,1,1,1211,1823,Secure Entrance|Fitness Center|Central Air|Utilities Included
+216,42.320333,-71.139212,0,1,348,1047,Picnic Area|Pool|Dishwasher|Off-Street Parking|Secure Entrance|Fitness Center|Utilities Included|Granite Countertops|Central Air|Washer/Dryer
+217,42.326962,-71.082537,2,1,1497,2370,Dishwasher|Secure Entrance|Granite Countertops|Washer/Dryer|Central Air|Fitness Center|Stainless Steel Appliances
+218,42.401742,-71.070376,4,2,1863,4456,Picnic Area|Utilities Included|Central Air|Granite Countertops|Off-Street Parking|Fitness Center|Secure Entrance|Pool|Dishwasher
+219,42.329408,-71.060592,1,1,1001,1648,Dishwasher|Pool|Stainless Steel Appliances|Central Air|Fitness Center|Secure Entrance|Picnic Area|Granite Countertops
+220,42.315489,-71.062016,4,3,2380,3646,Granite Countertops|Washer/Dryer
+221,42.324864,-71.152147,1,1,1211,1950,Washer/Dryer|Fitness Center|Dishwasher|Secure Entrance|Off-Street Parking|Stainless Steel Appliances|Utilities Included|Central Air|Picnic Area|Pool|Granite Countertops
+222,42.352883,-71.122028,2,1,1280,2446,Fitness Center|Stainless Steel Appliances
+223,42.329045,-71.092408,1,1,1185,1545,Pool|Fitness Center|Central Air|Utilities Included|Picnic Area|Washer/Dryer|Granite Countertops|Dishwasher
+224,42.392224,-71.138602,1,1,738,1572,Granite Countertops|Utilities Included|Washer/Dryer|Picnic Area|Central Air|Fitness Center|Stainless Steel Appliances
+225,42.389503,-71.113201,0,1,354,1042,Off-Street Parking|Pool
+226,42.336621,-71.137909,2,2,1233,2657,Pool|Stainless Steel Appliances|Fitness Center
+227,42.341749,-71.079899,0,1,448,920,Dishwasher
+228,42.354865,-71.127975,1,1,1034,1893,Washer/Dryer|Pool|Stainless Steel Appliances|Utilities Included|Central Air|Granite Countertops|Secure Entrance|Picnic Area|Dishwasher|Fitness Center|Off-Street Parking
+229,42.32368,-71.073427,4,2,2217,3978,Secure Entrance|Granite Countertops|Washer/Dryer|Fitness Center|Off-Street Parking
+230,42.324097,-71.071059,3,3,2023,3188,Stainless Steel Appliances
+231,42.318391,-71.097787,1,1,689,1829,Off-Street Parking|Washer/Dryer|Dishwasher|Central Air|Granite Countertops
+232,42.358428,-71.083523,3,2,2026,3217,Utilities Included|Fitness Center
+233,42.34627,-71.100245,3,3,1709,2911,Granite Countertops|Washer/Dryer|Dishwasher|Central Air
+234,42.354068,-71.129523,2,2,964,2855,Off-Street Parking|Pool|Fitness Center|Secure Entrance|Picnic Area|Granite Countertops|Utilities Included|Washer/Dryer|Stainless Steel Appliances|Central Air|Dishwasher
+235,42.322402,-71.105064,2,2,1561,2689,Off-Street Parking|Central Air|Secure Entrance|Picnic Area|Pool
+236,42.381602,-71.099496,3,2,1250,3341,Off-Street Parking|Granite Countertops|Fitness Center|Dishwasher|Stainless Steel Appliances|Pool|Central Air|Secure Entrance
+237,42.323417,-71.064679,3,2,2134,3117,Utilities Included|Washer/Dryer|Secure Entrance|Stainless Steel Appliances|Central Air|Picnic Area|Granite Countertops|Off-Street Parking|Dishwasher
+238,42.369337,-71.06142,2,1,1428,2825,Stainless Steel Appliances|Granite Countertops|Off-Street Parking|Utilities Included|Washer/Dryer
+239,42.329545,-71.099936,4,4,2228,4215,Fitness Center
+240,42.373753,-71.074693,2,2,1339,3232,Granite Countertops|Stainless Steel Appliances|Secure Entrance|Utilities Included|Central Air|Fitness Center|Dishwasher|Off-Street Parking|Pool|Washer/Dryer
+241,42.314934,-71.0973,4,4,2128,4049,Central Air|Secure Entrance|Dishwasher|Fitness Center
+242,42.391306,-71.126562,2,2,1301,2840,Granite Countertops|Central Air|Washer/Dryer
+243,42.357235,-71.098778,2,1,1285,2528,Utilities Included|Secure Entrance|Granite Countertops|Off-Street Parking|Central Air|Picnic Area|Washer/Dryer
+244,42.362287,-71.081271,0,1,329,928,Off-Street Parking|Pool|Picnic Area
+245,42.360923,-71.083352,3,3,1528,3291,Washer/Dryer|Off-Street Parking|Stainless Steel Appliances|Dishwasher|Granite Countertops|Fitness Center|Picnic Area|Pool|Central Air
+246,42.335578,-71.060292,0,1,302,909,Central Air|Granite Countertops
+247,42.330916,-71.123062,0,1,654,1231,Granite Countertops|Fitness Center|Washer/Dryer|Utilities Included|Secure Entrance|Pool|Off-Street Parking
+248,42.323164,-71.082238,2,1,1031,2463,Granite Countertops|Secure Entrance|Utilities Included|Central Air
+249,42.3314,-71.145747,3,1,1679,3162,Pool|Central Air|Granite Countertops|Picnic Area|Washer/Dryer
+250,42.410353,-71.124147,0,1,688,948,Dishwasher|Fitness Center|Washer/Dryer|Granite Countertops|Utilities Included
+251,42.378036,-71.1222,1,1,1001,1826,Utilities Included|Picnic Area|Granite Countertops|Stainless Steel Appliances|Secure Entrance|Pool|Off-Street Parking|Fitness Center|Central Air|Washer/Dryer
+252,42.406379,-71.104908,2,2,1383,2289,Washer/Dryer
+253,42.391756,-71.115508,3,3,1750,3107,Utilities Included
+254,42.3999,-71.079349,0,1,327,1057,Dishwasher|Picnic Area|Off-Street Parking|Utilities Included|Stainless Steel Appliances|Pool|Fitness Center|Secure Entrance|Granite Countertops|Central Air
+255,42.378665,-71.079085,0,1,647,1015,Stainless Steel Appliances|Washer/Dryer
+256,42.34516,-71.137706,0,1,568,913,Secure Entrance
+257,42.360621,-71.09086,2,1,1543,2225,Off-Street Parking|Washer/Dryer|Fitness Center|Pool|Picnic Area|Dishwasher|Secure Entrance|Granite Countertops
+258,42.353778,-71.078294,4,4,1948,4286,Fitness Center
+259,42.387812,-71.129992,3,2,1678,3257,Picnic Area|Dishwasher|Central Air|Off-Street Parking|Pool
+260,42.351949,-71.089248,4,3,2104,4358,Stainless Steel Appliances|Washer/Dryer|Secure Entrance|Utilities Included|Picnic Area|Granite Countertops|Central Air|Dishwasher|Pool|Off-Street Parking|Fitness Center
+261,42.326541,-71.063217,1,1,728,1570,Pool|Picnic Area|Granite Countertops|Utilities Included|Central Air|Dishwasher|Fitness Center|Secure Entrance
+262,42.325269,-71.141515,3,2,1771,3056,Pool|Granite Countertops|Dishwasher|Stainless Steel Appliances|Off-Street Parking|Utilities Included|Secure Entrance|Picnic Area|Washer/Dryer|Central Air|Fitness Center
+263,42.344182,-71.150675,3,3,1782,3871,Off-Street Parking|Washer/Dryer|Fitness Center|Dishwasher
+264,42.396439,-71.092121,3,2,1871,3415,Pool|Utilities Included|Off-Street Parking|Central Air|Washer/Dryer|Stainless Steel Appliances|Fitness Center|Secure Entrance|Dishwasher
+265,42.406699,-71.150976,1,1,836,1563,Utilities Included|Off-Street Parking|Picnic Area|Secure Entrance|Stainless Steel Appliances|Granite Countertops|Washer/Dryer
+266,42.344985,-71.069104,2,1,1309,2322,Pool|Dishwasher
+267,42.399164,-71.070038,0,1,260,921,Picnic Area
+268,42.358667,-71.146953,2,1,1473,2860,Off-Street Parking|Fitness Center|Dishwasher|Washer/Dryer|Stainless Steel Appliances|Secure Entrance
+269,42.352768,-71.099131,3,1,1873,3429,Pool|Washer/Dryer|Central Air|Stainless Steel Appliances|Picnic Area|Secure Entrance|Fitness Center|Off-Street Parking|Utilities Included|Dishwasher|Granite Countertops
+270,42.376615,-71.084856,1,1,1135,1638,Pool|Granite Countertops|Stainless Steel Appliances|Fitness Center|Utilities Included|Washer/Dryer|Central Air
+271,42.330806,-71.106541,0,1,544,1104,Off-Street Parking|Picnic Area|Fitness Center|Central Air|Granite Countertops|Stainless Steel Appliances
+272,42.389998,-71.126895,4,1,2181,3690,Central Air|Utilities Included|Washer/Dryer|Picnic Area
+273,42.33916,-71.096281,1,1,982,1403,Utilities Included
+274,42.402787,-71.117738,1,1,702,1635,Fitness Center|Dishwasher|Granite Countertops
+275,42.321543,-71.152729,3,2,1913,3578,Pool|Secure Entrance|Stainless Steel Appliances|Fitness Center|Off-Street Parking
+276,42.363891,-71.121468,0,1,253,1024,Stainless Steel Appliances|Dishwasher|Secure Entrance|Washer/Dryer|Granite Countertops|Pool|Off-Street Parking|Fitness Center|Utilities Included|Central Air|Picnic Area
+277,42.374612,-71.078251,4,3,2428,3530,Picnic Area|Pool|Fitness Center|Central Air|Off-Street Parking|Secure Entrance|Dishwasher|Washer/Dryer
+278,42.400208,-71.100669,2,1,1410,3076,Off-Street Parking|Utilities Included|Dishwasher|Granite Countertops|Picnic Area|Central Air|Fitness Center|Pool|Secure Entrance|Stainless Steel Appliances
+279,42.394498,-71.12763,1,1,1001,1322,Dishwasher
+280,42.392296,-71.057387,4,2,2172,4372,Secure Entrance|Fitness Center|Washer/Dryer|Off-Street Parking|Granite Countertops|Dishwasher|Picnic Area|Stainless Steel Appliances|Central Air|Utilities Included|Pool
+281,42.321316,-71.141811,3,3,1798,3616,Granite Countertops|Stainless Steel Appliances
+282,42.360893,-71.070509,3,1,1334,3112,Pool|Washer/Dryer|Central Air|Fitness Center|Secure Entrance|Dishwasher|Stainless Steel Appliances|Utilities Included|Off-Street Parking
+283,42.346121,-71.074839,3,1,1963,3336,Fitness Center|Granite Countertops|Central Air|Washer/Dryer|Utilities Included|Picnic Area|Pool|Off-Street Parking|Stainless Steel Appliances|Dishwasher
+284,42.342895,-71.068344,0,1,632,1141,Secure Entrance|Granite Countertops|Fitness Center|Dishwasher|Picnic Area|Washer/Dryer|Utilities Included|Off-Street Parking
+285,42.315823,-71.131415,3,3,2088,3524,Dishwasher|Utilities Included|Washer/Dryer|Central Air|Stainless Steel Appliances|Secure Entrance|Granite Countertops|Off-Street Parking|Pool|Picnic Area
+286,42.336395,-71.15157,2,2,1236,3028,Granite Countertops|Utilities Included|Pool|Secure Entrance|Central Air|Picnic Area|Washer/Dryer|Fitness Center|Dishwasher|Stainless Steel Appliances|Off-Street Parking
+287,42.346945,-71.087449,4,3,2386,4055,Secure Entrance|Fitness Center|Off-Street Parking|Picnic Area|Utilities Included
+288,42.332885,-71.126553,3,3,1898,3261,Utilities Included|Washer/Dryer|Dishwasher|Granite Countertops|Picnic Area
+289,42.410644,-71.145401,2,2,1522,2616,Granite Countertops|Secure Entrance|Fitness Center|Stainless Steel Appliances|Utilities Included|Dishwasher
+290,42.35968,-71.08019,0,1,452,987,Secure Entrance
+291,42.386802,-71.151301,0,1,493,935,Secure Entrance|Washer/Dryer|Dishwasher|Utilities Included
+292,42.344349,-71.121271,4,1,2165,4529,Fitness Center|Stainless Steel Appliances|Pool|Dishwasher|Picnic Area|Off-Street Parking|Secure Entrance|Granite Countertops|Washer/Dryer|Central Air
+293,42.390154,-71.102808,0,1,432,893,Secure Entrance
+294,42.348032,-71.058911,3,3,1947,3293,Stainless Steel Appliances|Utilities Included|Pool|Fitness Center|Dishwasher
+295,42.318893,-71.085613,4,3,1774,4409,Dishwasher|Central Air|Stainless Steel Appliances
+296,42.395174,-71.079498,4,1,2168,3910,Stainless Steel Appliances|Utilities Included|Dishwasher|Pool|Granite Countertops|Secure Entrance|Washer/Dryer|Picnic Area
+297,42.38777,-71.151693,2,2,1354,2921,Pool|Secure Entrance
+298,42.377082,-71.111762,0,1,302,1193,Dishwasher|Off-Street Parking|Stainless Steel Appliances|Pool|Central Air|Secure Entrance|Fitness Center|Granite Countertops|Picnic Area|Utilities Included
+299,42.348509,-71.150035,0,1,700,988,Washer/Dryer|Picnic Area|Dishwasher|Off-Street Parking|Pool|Utilities Included|Granite Countertops|Secure Entrance|Fitness Center
+300,42.408252,-71.147275,2,1,1000,2913,Central Air|Utilities Included|Off-Street Parking|Fitness Center|Secure Entrance
+301,42.360481,-71.112199,3,1,1920,3196,Granite Countertops|Off-Street Parking|Stainless Steel Appliances|Secure Entrance|Central Air|Picnic Area|Dishwasher|Utilities Included
+302,42.331745,-71.07502,4,3,2859,4353,Utilities Included|Dishwasher|Granite Countertops|Stainless Steel Appliances
+303,42.323937,-71.090674,4,3,1929,4126,Secure Entrance|Granite Countertops
+304,42.323809,-71.145666,4,4,2338,4417,Picnic Area|Off-Street Parking|Central Air
+305,42.332474,-71.130585,1,1,1019,2099,Utilities Included|Fitness Center|Granite Countertops|Washer/Dryer|Central Air|Dishwasher|Pool|Secure Entrance|Off-Street Parking|Picnic Area
+306,42.411486,-71.082544,0,1,587,946,Dishwasher|Pool|Granite Countertops|Secure Entrance|Picnic Area|Central Air|Washer/Dryer|Fitness Center|Utilities Included|Stainless Steel Appliances
+307,42.324677,-71.082634,2,2,1374,2734,Off-Street Parking
+308,42.316904,-71.094322,0,1,545,1069,Stainless Steel Appliances|Picnic Area|Dishwasher|Fitness Center|Secure Entrance|Off-Street Parking|Granite Countertops|Washer/Dryer|Pool
+309,42.359329,-71.12588,1,1,878,1529,Fitness Center|Secure Entrance|Dishwasher|Picnic Area
+310,42.363456,-71.145002,4,4,2318,4627,Picnic Area|Fitness Center|Pool
+311,42.390792,-71.102874,3,3,1892,3835,Pool|Central Air|Granite Countertops
+312,42.329998,-71.135266,2,1,1358,2511,Utilities Included|Fitness Center|Dishwasher|Washer/Dryer|Pool|Picnic Area|Secure Entrance|Off-Street Parking|Central Air|Granite Countertops|Stainless Steel Appliances
+313,42.328405,-71.140456,1,1,578,1651,Fitness Center|Granite Countertops|Dishwasher|Picnic Area|Pool|Secure Entrance|Washer/Dryer|Stainless Steel Appliances|Off-Street Parking|Utilities Included
+314,42.3811,-71.111227,0,1,557,1213,Fitness Center|Utilities Included|Dishwasher|Granite Countertops|Pool|Stainless Steel Appliances|Secure Entrance|Washer/Dryer|Off-Street Parking
+315,42.37906,-71.149606,0,1,680,1083,Pool|Off-Street Parking|Secure Entrance|Washer/Dryer|Central Air|Stainless Steel Appliances|Picnic Area
+316,42.327186,-71.110769,2,1,1061,2551,Fitness Center|Picnic Area|Stainless Steel Appliances|Pool|Central Air|Dishwasher|Utilities Included
+317,42.386162,-71.109502,4,3,2052,3893,Pool|Secure Entrance|Picnic Area|Off-Street Parking|Washer/Dryer|Central Air|Granite Countertops|Fitness Center|Utilities Included
+318,42.318579,-71.074639,0,1,508,908,Dishwasher|Washer/Dryer|Off-Street Parking|Picnic Area
+319,42.35849,-71.083197,3,3,1817,3983,Picnic Area|Dishwasher|Utilities Included|Fitness Center|Pool|Granite Countertops
+320,42.399409,-71.062117,1,1,923,1628,Stainless Steel Appliances|Picnic Area|Central Air|Fitness Center|Pool|Off-Street Parking|Secure Entrance|Granite Countertops
+321,42.358028,-71.122995,3,3,1977,3445,Washer/Dryer
+322,42.319032,-71.135073,2,1,928,2146,Granite Countertops|Secure Entrance
+323,42.322667,-71.153186,2,2,1391,2433,Granite Countertops|Fitness Center
+324,42.398838,-71.122687,2,2,1036,2832,Central Air|Fitness Center|Off-Street Parking|Picnic Area|Pool|Utilities Included|Stainless Steel Appliances|Granite Countertops
+325,42.389061,-71.130827,4,2,2062,4471,Off-Street Parking|Picnic Area|Utilities Included|Granite Countertops|Pool|Central Air|Stainless Steel Appliances
+326,42.390819,-71.080377,2,1,1465,2769,Off-Street Parking|Fitness Center|Granite Countertops
+327,42.346144,-71.135061,0,1,639,1058,Granite Countertops|Washer/Dryer|Pool|Utilities Included|Central Air
+328,42.403487,-71.104359,1,1,911,2040,Central Air|Secure Entrance|Dishwasher|Utilities Included|Picnic Area|Off-Street Parking|Pool
+329,42.315368,-71.152349,3,1,2045,3184,Utilities Included
+330,42.363574,-71.119082,2,2,1565,3092,Pool|Dishwasher|Washer/Dryer|Fitness Center|Stainless Steel Appliances|Secure Entrance|Picnic Area
+331,42.398314,-71.105559,4,3,2859,4190,Granite Countertops|Utilities Included|Secure Entrance|Fitness Center
+332,42.394046,-71.06839,0,1,397,1014,Utilities Included|Central Air|Pool|Stainless Steel Appliances|Picnic Area|Off-Street Parking|Secure Entrance|Granite Countertops|Washer/Dryer|Dishwasher
+333,42.387704,-71.11471,0,1,407,1040,Secure Entrance|Central Air|Washer/Dryer|Dishwasher|Utilities Included|Stainless Steel Appliances
+334,42.367303,-71.060794,0,1,687,999,Picnic Area|Pool
+335,42.325606,-71.135422,3,2,1093,3438,Utilities Included|Picnic Area|Secure Entrance|Dishwasher|Pool|Granite Countertops
+336,42.341679,-71.076301,4,1,2375,4064,Fitness Center|Central Air
+337,42.346877,-71.1456,1,1,1076,1505,Utilities Included|Dishwasher|Central Air|Picnic Area|Granite Countertops|Secure Entrance
+338,42.351984,-71.104117,4,4,2489,4557,Fitness Center|Washer/Dryer|Central Air|Picnic Area
+339,42.340304,-71.140791,0,1,396,1020,Utilities Included|Dishwasher|Pool|Off-Street Parking|Secure Entrance|Picnic Area
+340,42.332726,-71.071253,4,1,2068,4679,Fitness Center|Utilities Included|Off-Street Parking|Dishwasher|Granite Countertops|Washer/Dryer|Central Air|Stainless Steel Appliances
+341,42.404794,-71.097185,1,1,1043,1859,Washer/Dryer|Dishwasher|Secure Entrance|Stainless Steel Appliances|Pool|Fitness Center|Off-Street Parking|Utilities Included|Central Air|Picnic Area
+342,42.372734,-71.142159,2,2,1448,2872,Off-Street Parking|Granite Countertops|Central Air|Secure Entrance
+343,42.377008,-71.136442,0,1,412,1021,Central Air|Granite Countertops|Secure Entrance|Washer/Dryer|Utilities Included|Picnic Area|Fitness Center|Stainless Steel Appliances|Pool
+344,42.330198,-71.123005,0,1,634,962,Picnic Area|Washer/Dryer
+345,42.322141,-71.078732,3,3,1901,3360,Washer/Dryer|Central Air|Off-Street Parking|Stainless Steel Appliances|Granite Countertops|Dishwasher|Fitness Center|Secure Entrance|Pool|Picnic Area|Utilities Included
+346,42.392237,-71.114196,4,3,2182,4333,Utilities Included|Central Air|Stainless Steel Appliances|Dishwasher|Secure Entrance
+347,42.341777,-71.124813,1,1,1133,1860,Utilities Included|Dishwasher|Washer/Dryer|Central Air|Fitness Center|Secure Entrance|Picnic Area
+348,42.332757,-71.119825,0,1,386,830,Granite Countertops|Central Air|Stainless Steel Appliances
+349,42.407382,-71.057015,4,1,2477,3946,Utilities Included|Pool|Picnic Area
+350,42.387943,-71.152884,2,1,1144,2358,Utilities Included|Secure Entrance|Granite Countertops|Stainless Steel Appliances|Off-Street Parking
+351,42.396197,-71.146629,3,3,1812,3387,Fitness Center|Central Air|Utilities Included
+352,42.400714,-71.1378,3,2,2021,3490,Utilities Included|Off-Street Parking|Picnic Area|Fitness Center|Washer/Dryer|Granite Countertops|Central Air|Dishwasher|Secure Entrance
+353,42.328757,-71.115455,4,3,2411,4299,Utilities Included|Pool|Fitness Center|Picnic Area|Stainless Steel Appliances|Washer/Dryer|Dishwasher|Secure Entrance
+354,42.342748,-71.141689,1,1,1106,1700,Washer/Dryer|Fitness Center|Secure Entrance|Granite Countertops|Dishwasher|Picnic Area|Utilities Included|Central Air|Pool
+355,42.317146,-71.10032,2,2,1795,2499,Granite Countertops|Utilities Included
+356,42.377991,-71.12726,1,1,804,1566,Washer/Dryer|Secure Entrance|Fitness Center|Picnic Area|Pool
+357,42.322274,-71.117386,1,1,760,1941,Utilities Included|Secure Entrance|Picnic Area|Fitness Center|Granite Countertops|Central Air|Pool|Washer/Dryer
+358,42.393125,-71.086977,1,1,894,1629,Fitness Center|Granite Countertops
+359,42.347801,-71.096337,2,2,1325,2770,Off-Street Parking
+360,42.395573,-71.063675,0,1,459,884,Dishwasher|Fitness Center|Granite Countertops|Pool|Stainless Steel Appliances
+361,42.37519,-71.129489,4,3,1817,4516,Granite Countertops|Secure Entrance|Central Air|Off-Street Parking|Picnic Area|Washer/Dryer|Dishwasher|Pool|Stainless Steel Appliances
+362,42.411123,-71.153195,4,2,2410,4021,Central Air|Off-Street Parking|Utilities Included|Fitness Center|Washer/Dryer|Stainless Steel Appliances|Granite Countertops|Picnic Area|Secure Entrance|Pool|Dishwasher
+363,42.342305,-71.144536,0,1,397,913,Central Air|Stainless Steel Appliances
+364,42.327368,-71.133367,0,1,384,892,Granite Countertops|Fitness Center|Central Air|Stainless Steel Appliances|Secure Entrance|Dishwasher|Picnic Area
+365,42.355178,-71.091244,2,1,1080,2889,Picnic Area|Stainless Steel Appliances|Off-Street Parking|Washer/Dryer|Fitness Center|Granite Countertops|Dishwasher
+366,42.322663,-71.139778,2,2,1442,2842,Granite Countertops|Washer/Dryer|Picnic Area|Utilities Included|Central Air|Pool
+367,42.32532,-71.057086,1,1,845,1951,Stainless Steel Appliances|Utilities Included|Secure Entrance|Dishwasher|Fitness Center|Off-Street Parking|Washer/Dryer|Granite Countertops|Picnic Area|Pool|Central Air
+368,42.396561,-71.081706,2,2,1647,2982,Off-Street Parking|Stainless Steel Appliances|Picnic Area|Dishwasher|Fitness Center|Pool|Central Air|Granite Countertops
+369,42.343745,-71.14823,3,2,1636,3512,Washer/Dryer|Stainless Steel Appliances
+370,42.389054,-71.067686,2,2,1563,2762,Granite Countertops|Central Air|Washer/Dryer|Secure Entrance|Picnic Area|Off-Street Parking
+371,42.387146,-71.121135,4,1,2212,3741,Fitness Center|Washer/Dryer|Utilities Included|Granite Countertops|Central Air|Pool|Picnic Area|Secure Entrance
+372,42.367219,-71.141245,0,1,594,900,Washer/Dryer|Utilities Included|Picnic Area|Pool|Secure Entrance
+373,42.36911,-71.102441,3,1,1948,2802,Dishwasher|Granite Countertops|Stainless Steel Appliances|Fitness Center|Washer/Dryer|Pool|Secure Entrance|Off-Street Parking|Central Air|Utilities Included|Picnic Area
+374,42.403056,-71.057316,3,3,2461,3601,Fitness Center|Pool|Granite Countertops|Dishwasher|Picnic Area
+375,42.330984,-71.117411,2,1,1426,2456,Utilities Included|Off-Street Parking|Stainless Steel Appliances|Secure Entrance|Granite Countertops|Pool|Picnic Area
+376,42.372818,-71.075068,4,2,2181,3983,Off-Street Parking|Stainless Steel Appliances|Secure Entrance
+377,42.334034,-71.136931,2,2,1097,3030,Fitness Center|Dishwasher|Secure Entrance|Utilities Included|Pool|Granite Countertops|Picnic Area|Stainless Steel Appliances|Washer/Dryer|Off-Street Parking|Central Air
+378,42.343042,-71.070841,1,1,1132,1816,Pool|Granite Countertops|Fitness Center|Dishwasher|Secure Entrance|Central Air|Utilities Included|Picnic Area
+379,42.340872,-71.060778,2,1,1693,2209,Fitness Center|Utilities Included|Washer/Dryer|Off-Street Parking|Picnic Area
+380,42.359649,-71.086249,0,1,619,1085,Fitness Center|Central Air|Stainless Steel Appliances|Utilities Included
+381,42.359369,-71.130087,3,1,2112,2906,Off-Street Parking|Secure Entrance|Fitness Center|Granite Countertops|Central Air|Washer/Dryer|Utilities Included|Picnic Area|Pool|Stainless Steel Appliances|Dishwasher
+382,42.360793,-71.115192,4,3,2321,4430,Washer/Dryer|Utilities Included|Fitness Center|Picnic Area|Granite Countertops|Off-Street Parking|Central Air|Pool|Dishwasher|Secure Entrance
+383,42.348983,-71.123648,4,2,2916,4214,Fitness Center|Granite Countertops|Dishwasher
+384,42.403135,-71.106554,3,2,1785,2984,Stainless Steel Appliances|Utilities Included|Picnic Area|Granite Countertops|Central Air|Fitness Center|Washer/Dryer|Pool|Off-Street Parking|Secure Entrance|Dishwasher
+385,42.389702,-71.062415,4,2,2331,4052,Off-Street Parking|Stainless Steel Appliances|Picnic Area|Fitness Center|Utilities Included|Washer/Dryer|Secure Entrance|Central Air|Dishwasher
+386,42.35355,-71.151254,3,1,1860,3673,Granite Countertops|Stainless Steel Appliances|Utilities Included|Secure Entrance|Central Air|Fitness Center|Off-Street Parking|Dishwasher|Washer/Dryer|Pool|Picnic Area
+387,42.32474,-71.063031,3,2,1993,3230,Secure Entrance|Pool|Stainless Steel Appliances|Dishwasher|Fitness Center|Granite Countertops|Utilities Included
+388,42.368845,-71.088784,3,2,2021,3151,Secure Entrance|Picnic Area|Central Air|Washer/Dryer|Utilities Included|Off-Street Parking
+389,42.387596,-71.119974,3,3,1508,3625,Fitness Center|Picnic Area|Off-Street Parking|Utilities Included|Granite Countertops|Washer/Dryer|Stainless Steel Appliances|Secure Entrance|Central Air
+390,42.379116,-71.103014,0,1,510,1077,Washer/Dryer|Utilities Included|Pool|Off-Street Parking|Secure Entrance|Granite Countertops
+391,42.378472,-71.053875,2,2,1267,2483,Off-Street Parking|Picnic Area|Central Air|Granite Countertops|Stainless Steel Appliances|Pool|Utilities Included|Washer/Dryer
+392,42.350894,-71.102629,0,1,565,1141,Pool|Utilities Included|Secure Entrance|Stainless Steel Appliances|Off-Street Parking|Central Air|Dishwasher|Picnic Area
+393,42.337376,-71.131311,3,2,1770,3286,Picnic Area
+394,42.382718,-71.076182,0,1,560,940,Granite Countertops|Utilities Included|Fitness Center
+395,42.363571,-71.068714,4,1,1780,3964,Granite Countertops|Washer/Dryer|Picnic Area|Pool|Secure Entrance|Central Air|Dishwasher|Off-Street Parking|Stainless Steel Appliances|Fitness Center
+396,42.374166,-71.096219,0,1,282,879,Central Air|Utilities Included
+397,42.350528,-71.059353,4,1,2070,3644,Fitness Center
+398,42.327044,-71.088386,0,1,714,1097,Stainless Steel Appliances|Washer/Dryer|Off-Street Parking|Picnic Area|Central Air|Granite Countertops|Dishwasher|Secure Entrance|Pool
+399,42.371393,-71.129003,2,1,1025,2685,Pool|Washer/Dryer|Off-Street Parking|Granite Countertops|Stainless Steel Appliances|Secure Entrance|Fitness Center|Dishwasher|Utilities Included
+400,42.327848,-71.130661,4,2,2550,4209,Secure Entrance|Central Air|Stainless Steel Appliances|Pool|Utilities Included|Granite Countertops|Dishwasher|Fitness Center|Picnic Area
+401,42.37205,-71.100264,3,1,1953,3202,Utilities Included|Granite Countertops|Central Air|Off-Street Parking|Fitness Center
+402,42.37707,-71.084561,2,1,1336,1901,Stainless Steel Appliances|Dishwasher|Granite Countertops
+403,42.357952,-71.09005,2,2,1678,2709,Washer/Dryer|Secure Entrance|Fitness Center|Central Air|Dishwasher|Utilities Included
+404,42.371402,-71.127313,1,1,852,1750,Dishwasher|Picnic Area|Central Air|Utilities Included|Fitness Center
+405,42.351379,-71.137371,3,2,1862,3553,Pool|Stainless Steel Appliances
+406,42.339469,-71.13249,1,1,859,2113,Stainless Steel Appliances|Central Air|Washer/Dryer|Off-Street Parking|Picnic Area|Dishwasher|Granite Countertops|Pool|Fitness Center
+407,42.348551,-71.073876,2,2,1383,3228,Picnic Area|Central Air|Granite Countertops|Fitness Center|Utilities Included|Pool|Dishwasher|Washer/Dryer
+408,42.368689,-71.148042,4,4,2042,4824,Washer/Dryer|Off-Street Parking|Fitness Center|Pool|Secure Entrance|Picnic Area|Stainless Steel Appliances|Dishwasher|Central Air|Utilities Included
+409,42.376133,-71.121972,4,1,2417,3479,Stainless Steel Appliances|Secure Entrance|Fitness Center|Utilities Included|Pool|Off-Street Parking
+410,42.367082,-71.082361,0,1,658,921,Granite Countertops|Washer/Dryer
+411,42.314956,-71.107941,1,1,1068,1665,Stainless Steel Appliances|Washer/Dryer|Pool
+412,42.326554,-71.090007,0,1,605,1041,Picnic Area|Stainless Steel Appliances|Dishwasher|Washer/Dryer|Fitness Center
+413,42.363649,-71.124913,1,1,877,1992,Picnic Area|Pool|Utilities Included|Dishwasher|Stainless Steel Appliances|Washer/Dryer
+414,42.343645,-71.055821,4,3,2427,3612,Granite Countertops|Fitness Center|Picnic Area|Dishwasher|Utilities Included|Off-Street Parking|Central Air|Stainless Steel Appliances|Washer/Dryer|Pool|Secure Entrance
+415,42.337151,-71.149823,0,1,337,1233,Dishwasher|Central Air|Off-Street Parking|Pool|Stainless Steel Appliances|Fitness Center|Washer/Dryer|Granite Countertops|Secure Entrance|Utilities Included
+416,42.354647,-71.112893,3,2,2202,3225,Utilities Included|Granite Countertops
+417,42.325952,-71.124535,1,1,942,2088,Washer/Dryer|Picnic Area|Secure Entrance|Pool|Fitness Center|Off-Street Parking|Central Air|Granite Countertops|Utilities Included|Dishwasher|Stainless Steel Appliances
+418,42.392032,-71.06367,1,1,869,1947,Fitness Center|Washer/Dryer|Stainless Steel Appliances|Utilities Included
+419,42.372932,-71.123688,4,2,2684,3757,Utilities Included|Pool|Central Air|Stainless Steel Appliances|Fitness Center|Secure Entrance
+420,42.391243,-71.135286,3,2,2105,3628,Central Air|Washer/Dryer|Granite Countertops|Off-Street Parking|Stainless Steel Appliances|Secure Entrance
+421,42.351817,-71.113136,2,2,1198,2846,Granite Countertops|Picnic Area|Utilities Included|Central Air|Off-Street Parking|Stainless Steel Appliances|Dishwasher
+422,42.408846,-71.071702,3,3,1959,3717,Fitness Center|Central Air|Dishwasher|Secure Entrance|Stainless Steel Appliances|Picnic Area|Pool|Off-Street Parking|Granite Countertops
+423,42.316542,-71.106862,0,1,483,924,Pool|Fitness Center|Granite Countertops|Washer/Dryer|Dishwasher|Secure Entrance|Central Air|Picnic Area|Utilities Included|Stainless Steel Appliances
+424,42.374152,-71.10867,4,1,2313,3525,Central Air|Picnic Area|Fitness Center|Stainless Steel Appliances|Secure Entrance|Off-Street Parking|Granite Countertops
+425,42.391179,-71.06111,4,4,2463,3882,Secure Entrance|Pool
+426,42.37078,-71.068205,2,2,984,3145,Utilities Included|Stainless Steel Appliances|Pool|Off-Street Parking|Central Air
+427,42.372468,-71.05547,1,1,1089,1724,Dishwasher|Stainless Steel Appliances|Picnic Area|Washer/Dryer|Pool|Utilities Included|Fitness Center|Granite Countertops|Off-Street Parking|Secure Entrance
+428,42.365422,-71.074013,3,2,1712,3158,Utilities Included
+429,42.385628,-71.076814,1,1,873,1759,Picnic Area|Pool|Stainless Steel Appliances
+430,42.391033,-71.126519,0,1,442,1068,Utilities Included|Granite Countertops|Stainless Steel Appliances|Fitness Center|Dishwasher|Off-Street Parking|Picnic Area|Central Air
+431,42.394166,-71.069705,2,2,1382,3265,Central Air|Dishwasher|Fitness Center|Secure Entrance|Stainless Steel Appliances|Utilities Included|Picnic Area|Pool
+432,42.374819,-71.113337,3,1,1860,3541,Pool|Utilities Included|Stainless Steel Appliances|Washer/Dryer|Secure Entrance|Dishwasher|Central Air|Granite Countertops
+433,42.357167,-71.136934,4,2,2109,4397,Dishwasher|Granite Countertops|Washer/Dryer|Secure Entrance|Fitness Center|Utilities Included|Picnic Area|Pool|Stainless Steel Appliances|Off-Street Parking
+434,42.376329,-71.120059,3,2,2053,2735,Granite Countertops|Dishwasher|Central Air
+435,42.347138,-71.113628,2,1,1432,2475,Secure Entrance|Utilities Included|Central Air|Off-Street Parking|Picnic Area|Stainless Steel Appliances
+436,42.31567,-71.089235,3,2,2303,3528,Granite Countertops|Fitness Center|Off-Street Parking|Secure Entrance|Central Air|Utilities Included
+437,42.341876,-71.108296,4,1,2743,4085,Off-Street Parking|Fitness Center|Dishwasher|Pool|Washer/Dryer|Stainless Steel Appliances|Central Air|Picnic Area|Granite Countertops|Utilities Included|Secure Entrance
+438,42.343252,-71.081067,1,1,575,1644,Stainless Steel Appliances|Dishwasher|Fitness Center
+439,42.384967,-71.098576,4,3,1747,4263,Washer/Dryer|Stainless Steel Appliances|Picnic Area|Granite Countertops|Utilities Included|Dishwasher|Fitness Center|Pool|Off-Street Parking
+440,42.398154,-71.084297,0,1,563,1000,Picnic Area|Central Air|Washer/Dryer|Stainless Steel Appliances|Utilities Included|Off-Street Parking|Pool|Fitness Center|Secure Entrance|Granite Countertops
+441,42.366432,-71.058491,2,2,1453,3225,Granite Countertops|Washer/Dryer|Pool|Off-Street Parking|Stainless Steel Appliances|Fitness Center|Utilities Included
+442,42.340536,-71.134018,4,3,2273,3820,Dishwasher
+443,42.383372,-71.125417,3,3,2187,3631,Secure Entrance|Granite Countertops|Utilities Included|Pool|Stainless Steel Appliances|Central Air|Off-Street Parking|Washer/Dryer|Fitness Center
+444,42.324272,-71.08955,0,1,681,1023,Secure Entrance|Stainless Steel Appliances|Utilities Included
+445,42.38657,-71.059469,4,2,2118,4647,Pool|Dishwasher|Fitness Center|Stainless Steel Appliances|Picnic Area|Granite Countertops|Central Air|Off-Street Parking|Secure Entrance|Utilities Included
+446,42.318917,-71.136826,4,2,2406,3543,Dishwasher|Pool|Secure Entrance|Granite Countertops|Picnic Area
+447,42.350981,-71.078441,3,1,1818,3496,Washer/Dryer|Secure Entrance|Central Air|Fitness Center|Stainless Steel Appliances|Dishwasher|Granite Countertops
+448,42.386101,-71.151519,4,1,2393,3900,Utilities Included|Off-Street Parking
+449,42.403569,-71.111398,1,1,738,1681,Secure Entrance
+450,42.341708,-71.074425,4,3,1931,4084,Fitness Center|Granite Countertops|Central Air|Picnic Area|Pool|Dishwasher|Stainless Steel Appliances|Utilities Included
+451,42.408501,-71.12327,0,1,339,1142,Utilities Included|Central Air|Picnic Area|Stainless Steel Appliances|Fitness Center|Washer/Dryer|Granite Countertops|Off-Street Parking|Dishwasher
+452,42.389317,-71.130264,4,4,2974,4767,Fitness Center
+453,42.387269,-71.083908,0,1,309,956,Utilities Included|Picnic Area|Central Air|Granite Countertops|Secure Entrance|Fitness Center|Dishwasher|Pool|Washer/Dryer|Stainless Steel Appliances
+454,42.373118,-71.13809,4,2,2346,4094,Dishwasher|Utilities Included
+455,42.372263,-71.096504,4,4,2428,4377,Central Air|Secure Entrance|Picnic Area|Dishwasher
+456,42.343536,-71.15082,3,1,2227,3569,Utilities Included|Dishwasher|Granite Countertops|Washer/Dryer|Picnic Area|Central Air|Off-Street Parking|Secure Entrance|Fitness Center|Pool
+457,42.388032,-71.125772,2,2,1735,3087,Granite Countertops|Off-Street Parking|Picnic Area|Utilities Included|Secure Entrance|Stainless Steel Appliances
+458,42.341362,-71.076354,2,2,1864,2820,Secure Entrance
+459,42.405723,-71.11355,4,3,1922,3940,Washer/Dryer
+460,42.372067,-71.11578,1,1,1046,1747,Fitness Center|Granite Countertops|Picnic Area|Utilities Included
+461,42.338584,-71.126087,3,3,1931,3747,Utilities Included|Central Air|Picnic Area|Pool|Stainless Steel Appliances|Fitness Center
+462,42.350867,-71.117237,1,1,928,1880,Secure Entrance
+463,42.328113,-71.086256,3,2,2004,2994,Off-Street Parking
+464,42.369426,-71.141389,0,1,649,1092,Stainless Steel Appliances|Central Air|Pool|Picnic Area|Fitness Center|Dishwasher|Secure Entrance|Off-Street Parking|Granite Countertops|Utilities Included
+465,42.344896,-71.099953,2,1,1561,2055,Secure Entrance|Dishwasher|Washer/Dryer
+466,42.372072,-71.072848,1,1,695,1726,Fitness Center|Washer/Dryer|Dishwasher|Utilities Included|Off-Street Parking|Secure Entrance|Stainless Steel Appliances|Granite Countertops|Pool|Picnic Area
+467,42.391419,-71.073477,4,3,2538,3807,Stainless Steel Appliances|Dishwasher|Picnic Area|Washer/Dryer|Central Air|Secure Entrance|Fitness Center|Granite Countertops
+468,42.380938,-71.076469,3,3,2168,3635,Granite Countertops|Central Air|Fitness Center|Secure Entrance|Washer/Dryer|Off-Street Parking|Dishwasher|Picnic Area|Utilities Included
+469,42.403525,-71.065559,2,1,1332,2207,Fitness Center|Central Air|Picnic Area|Utilities Included
+470,42.394606,-71.08447,2,1,1559,2569,Secure Entrance
+471,42.407272,-71.093047,2,1,1036,2663,Dishwasher|Utilities Included|Picnic Area|Central Air|Granite Countertops|Fitness Center|Washer/Dryer|Off-Street Parking|Pool|Secure Entrance|Stainless Steel Appliances
+472,42.396376,-71.062994,0,1,464,760,Granite Countertops
+473,42.378025,-71.085306,1,1,999,1863,Dishwasher|Central Air|Stainless Steel Appliances
+474,42.325557,-71.124567,3,2,1688,3259,Washer/Dryer|Secure Entrance|Picnic Area|Central Air
+475,42.367322,-71.122825,1,1,721,1700,Secure Entrance|Granite Countertops|Washer/Dryer|Stainless Steel Appliances|Dishwasher|Off-Street Parking|Central Air|Utilities Included
+476,42.338988,-71.135067,3,2,1841,3632,Off-Street Parking|Secure Entrance|Dishwasher|Fitness Center|Stainless Steel Appliances
+477,42.329053,-71.124042,4,2,1896,4386,Washer/Dryer|Utilities Included|Secure Entrance|Off-Street Parking|Picnic Area|Pool|Stainless Steel Appliances
+478,42.395719,-71.146621,0,1,438,846,Fitness Center|Picnic Area|Pool|Central Air|Secure Entrance|Stainless Steel Appliances
+479,42.36354,-71.121503,0,1,354,1010,Granite Countertops|Stainless Steel Appliances|Picnic Area|Fitness Center|Pool|Dishwasher|Washer/Dryer|Off-Street Parking
+480,42.326689,-71.062306,4,4,2165,4387,Off-Street Parking|Fitness Center|Washer/Dryer|Central Air|Pool|Stainless Steel Appliances|Secure Entrance
+481,42.360351,-71.143466,2,1,1094,2447,Picnic Area
+482,42.396966,-71.139338,2,1,1376,2651,Secure Entrance|Stainless Steel Appliances|Dishwasher
+483,42.385345,-71.114121,0,1,568,996,Granite Countertops
+484,42.365711,-71.108599,3,3,1679,3499,Central Air
+485,42.411833,-71.105543,0,1,661,1143,Granite Countertops|Off-Street Parking|Utilities Included|Dishwasher
+486,42.393934,-71.111174,3,1,2271,3540,Central Air|Stainless Steel Appliances|Utilities Included|Dishwasher|Pool
+487,42.386436,-71.119847,0,1,446,827,Pool|Dishwasher
+488,42.34621,-71.152656,3,1,1849,2909,Central Air
+489,42.335991,-71.114394,1,1,1037,1531,Picnic Area|Stainless Steel Appliances|Utilities Included|Granite Countertops
+490,42.407657,-71.08261,0,1,273,1044,Off-Street Parking|Dishwasher
+491,42.391531,-71.104133,2,1,1728,2514,Pool|Stainless Steel Appliances|Central Air|Picnic Area|Fitness Center|Secure Entrance|Granite Countertops|Utilities Included
+492,42.359293,-71.103086,0,1,632,930,Central Air|Secure Entrance|Off-Street Parking|Picnic Area|Dishwasher
+493,42.370284,-71.053982,0,1,441,936,Off-Street Parking|Picnic Area|Central Air|Dishwasher|Granite Countertops
+494,42.320007,-71.131676,0,1,346,809,Utilities Included
+495,42.338542,-71.10487,1,1,559,1975,Secure Entrance|Picnic Area|Washer/Dryer|Utilities Included|Central Air|Granite Countertops
+496,42.377849,-71.066591,3,1,2012,3307,Picnic Area|Dishwasher|Granite Countertops|Central Air|Utilities Included|Stainless Steel Appliances
+497,42.387627,-71.138403,1,1,1116,1964,Central Air|Washer/Dryer|Fitness Center|Stainless Steel Appliances|Utilities Included
+498,42.349786,-71.111426,4,3,2260,4372,Picnic Area|Stainless Steel Appliances|Washer/Dryer|Central Air
+499,42.354458,-71.134014,3,2,1656,3144,Central Air|Dishwasher|Off-Street Parking|Utilities Included|Secure Entrance|Granite Countertops|Fitness Center
+500,42.413772,-71.056905,3,2,1514,3211,Picnic Area|Washer/Dryer|Stainless Steel Appliances|Off-Street Parking|Central Air|Pool|Secure Entrance|Utilities Included|Granite Countertops
+501,42.372791,-71.085414,0,1,419,1068,Stainless Steel Appliances|Off-Street Parking|Pool|Central Air|Utilities Included|Secure Entrance|Washer/Dryer|Dishwasher|Fitness Center|Picnic Area
+502,42.352971,-71.106427,1,1,1283,1744,Pool|Secure Entrance|Washer/Dryer|Utilities Included
+503,42.375076,-71.09624,2,1,1458,2827,Stainless Steel Appliances|Secure Entrance|Washer/Dryer|Picnic Area|Fitness Center|Off-Street Parking|Utilities Included
+504,42.341535,-71.106834,4,2,2178,4290,Washer/Dryer|Central Air|Pool|Utilities Included
+505,42.336025,-71.149989,1,1,1199,2022,Utilities Included|Fitness Center|Secure Entrance|Off-Street Parking|Picnic Area
+506,42.31576,-71.067367,3,3,2336,3995,Off-Street Parking|Central Air|Pool|Utilities Included|Secure Entrance
+507,42.403797,-71.084897,3,2,1296,3021,Granite Countertops|Picnic Area
+508,42.373236,-71.151888,0,1,263,990,Granite Countertops|Central Air|Stainless Steel Appliances|Off-Street Parking|Washer/Dryer|Fitness Center|Secure Entrance
+509,42.390042,-71.064199,0,1,726,1026,Granite Countertops|Fitness Center|Utilities Included|Dishwasher|Central Air
+510,42.379691,-71.123593,0,1,730,990,Off-Street Parking|Central Air|Picnic Area|Dishwasher|Stainless Steel Appliances|Washer/Dryer
+511,42.390315,-71.143111,1,1,1160,1872,Central Air|Washer/Dryer|Dishwasher|Utilities Included|Fitness Center|Secure Entrance|Stainless Steel Appliances|Granite Countertops|Pool
+512,42.319748,-71.144334,0,1,678,970,Off-Street Parking|Central Air|Utilities Included|Washer/Dryer|Pool
+513,42.341683,-71.132669,3,3,2044,3702,Fitness Center|Picnic Area|Stainless Steel Appliances|Off-Street Parking|Central Air|Secure Entrance|Washer/Dryer|Granite Countertops
+514,42.342359,-71.133819,0,1,643,1142,Off-Street Parking|Dishwasher|Washer/Dryer|Stainless Steel Appliances|Pool|Picnic Area|Granite Countertops|Secure Entrance|Central Air|Utilities Included
+515,42.356573,-71.055413,3,3,2325,3955,Dishwasher|Washer/Dryer|Picnic Area|Central Air|Off-Street Parking|Granite Countertops|Fitness Center|Utilities Included|Pool
+516,42.354169,-71.064299,3,3,1503,3959,Utilities Included|Picnic Area|Stainless Steel Appliances|Pool
+517,42.325026,-71.064092,2,2,1244,2954,Fitness Center|Stainless Steel Appliances|Granite Countertops|Central Air|Secure Entrance|Picnic Area|Washer/Dryer|Dishwasher|Pool
+518,42.392295,-71.131794,3,3,1844,4047,Dishwasher|Secure Entrance
+519,42.326956,-71.099844,1,1,938,1666,Dishwasher|Pool|Central Air|Washer/Dryer|Utilities Included|Picnic Area|Secure Entrance
+520,42.394306,-71.074068,0,1,412,871,Picnic Area|Utilities Included|Granite Countertops
+521,42.393891,-71.069882,1,1,995,1734,Stainless Steel Appliances|Pool|Utilities Included|Picnic Area
+522,42.383367,-71.139321,2,1,1434,3054,Dishwasher|Picnic Area|Off-Street Parking|Central Air|Granite Countertops|Pool|Washer/Dryer|Secure Entrance|Utilities Included|Fitness Center|Stainless Steel Appliances
+523,42.36488,-71.119543,1,1,991,1708,Off-Street Parking|Granite Countertops|Picnic Area|Dishwasher|Fitness Center|Secure Entrance|Utilities Included|Central Air
+524,42.391674,-71.071422,2,1,1823,2606,Granite Countertops|Off-Street Parking|Washer/Dryer|Fitness Center|Utilities Included|Stainless Steel Appliances|Secure Entrance|Picnic Area
+525,42.396551,-71.130078,1,1,919,1812,Stainless Steel Appliances|Off-Street Parking|Fitness Center|Pool|Dishwasher|Picnic Area|Central Air
+526,42.349904,-71.079576,2,1,1482,2503,Stainless Steel Appliances|Picnic Area|Fitness Center|Pool|Granite Countertops|Utilities Included
+527,42.405817,-71.057275,4,2,2390,3602,Secure Entrance|Stainless Steel Appliances|Granite Countertops
+528,42.34173,-71.107718,4,2,1653,4025,Utilities Included|Stainless Steel Appliances|Off-Street Parking|Central Air|Dishwasher|Secure Entrance|Fitness Center|Picnic Area|Granite Countertops
+529,42.375456,-71.060819,1,1,1139,1640,Stainless Steel Appliances|Utilities Included|Central Air
+530,42.320676,-71.13642,4,4,2345,4601,Utilities Included|Granite Countertops|Fitness Center
+531,42.404445,-71.086896,0,1,572,1001,Pool|Picnic Area|Granite Countertops|Utilities Included|Stainless Steel Appliances|Dishwasher|Central Air|Washer/Dryer|Fitness Center|Secure Entrance
+532,42.319107,-71.127067,1,1,1076,1513,Pool|Utilities Included|Picnic Area|Stainless Steel Appliances|Washer/Dryer|Fitness Center|Granite Countertops|Central Air
+533,42.342282,-71.089951,4,4,2200,4392,Granite Countertops|Picnic Area|Pool|Dishwasher
+534,42.331164,-71.09134,2,1,1206,2976,Secure Entrance|Dishwasher|Off-Street Parking|Utilities Included|Stainless Steel Appliances|Picnic Area|Washer/Dryer|Granite Countertops|Central Air
+535,42.376103,-71.077355,3,1,1977,3464,Pool|Utilities Included|Picnic Area|Stainless Steel Appliances|Granite Countertops|Fitness Center|Washer/Dryer|Off-Street Parking|Secure Entrance|Dishwasher|Central Air
+536,42.315947,-71.082837,1,1,893,1762,Dishwasher|Fitness Center|Stainless Steel Appliances|Utilities Included|Secure Entrance|Washer/Dryer|Granite Countertops|Pool|Central Air
+537,42.334777,-71.149114,3,2,1619,3674,Central Air|Off-Street Parking|Stainless Steel Appliances|Pool|Washer/Dryer|Fitness Center|Secure Entrance|Picnic Area|Granite Countertops|Dishwasher|Utilities Included
+538,42.354394,-71.109917,0,1,704,847,Fitness Center|Granite Countertops
+539,42.388549,-71.15172,3,3,1942,3311,Pool|Picnic Area|Granite Countertops|Secure Entrance|Fitness Center|Washer/Dryer|Stainless Steel Appliances|Central Air
+540,42.346921,-71.142122,3,1,1863,3360,Granite Countertops|Central Air|Stainless Steel Appliances|Off-Street Parking|Utilities Included|Fitness Center|Dishwasher|Picnic Area|Pool|Washer/Dryer
+541,42.320736,-71.099818,1,1,1184,1760,Fitness Center|Pool|Off-Street Parking|Picnic Area|Dishwasher
+542,42.382401,-71.118834,3,2,2377,2707,Off-Street Parking|Secure Entrance|Granite Countertops
+543,42.320052,-71.099193,4,2,2609,4246,Pool|Picnic Area|Granite Countertops|Utilities Included
+544,42.403595,-71.091027,3,2,1791,3335,Dishwasher|Picnic Area|Stainless Steel Appliances|Off-Street Parking|Central Air
+545,42.411708,-71.084461,4,1,2246,3308,Picnic Area|Utilities Included|Dishwasher|Central Air|Off-Street Parking|Granite Countertops
+546,42.407618,-71.137659,2,1,942,2964,Picnic Area|Stainless Steel Appliances|Off-Street Parking|Granite Countertops|Fitness Center
+547,42.340973,-71.110766,3,1,1925,3475,Utilities Included|Fitness Center|Pool
+548,42.375168,-71.091877,3,3,2359,3341,Granite Countertops|Pool|Secure Entrance|Washer/Dryer|Central Air|Stainless Steel Appliances|Dishwasher
+549,42.37468,-71.109176,2,1,1372,2560,Utilities Included|Central Air|Dishwasher
+550,42.316106,-71.059424,1,1,716,1899,Granite Countertops|Off-Street Parking|Stainless Steel Appliances
+551,42.403056,-71.076057,1,1,1114,1711,Picnic Area|Secure Entrance|Washer/Dryer|Utilities Included|Off-Street Parking|Central Air|Dishwasher|Granite Countertops|Fitness Center
+552,42.319772,-71.152598,0,1,546,874,Utilities Included|Fitness Center|Washer/Dryer|Central Air|Secure Entrance|Granite Countertops
+553,42.379613,-71.142886,0,1,374,1149,Stainless Steel Appliances|Secure Entrance|Dishwasher|Central Air|Utilities Included|Picnic Area|Fitness Center|Off-Street Parking|Pool
+554,42.338865,-71.079922,0,1,602,952,Fitness Center|Granite Countertops|Central Air|Off-Street Parking
+555,42.328304,-71.125505,2,1,1276,2523,Picnic Area|Stainless Steel Appliances|Off-Street Parking
+556,42.340184,-71.106762,4,3,2890,4558,Stainless Steel Appliances|Pool|Granite Countertops|Picnic Area|Off-Street Parking|Fitness Center|Central Air|Secure Entrance|Utilities Included|Washer/Dryer|Dishwasher
+557,42.345993,-71.098797,3,1,1764,2591,Secure Entrance|Dishwasher|Fitness Center|Utilities Included|Washer/Dryer|Pool|Granite Countertops|Off-Street Parking|Picnic Area|Stainless Steel Appliances|Central Air
+558,42.331497,-71.063076,4,4,2426,4460,Stainless Steel Appliances|Fitness Center|Picnic Area|Pool|Washer/Dryer|Secure Entrance|Central Air|Utilities Included|Granite Countertops|Off-Street Parking
+559,42.355666,-71.08551,0,1,498,1078,Pool|Utilities Included|Dishwasher|Granite Countertops|Fitness Center|Secure Entrance|Washer/Dryer|Picnic Area|Central Air|Stainless Steel Appliances|Off-Street Parking
+560,42.397593,-71.097862,4,3,2335,3804,Central Air|Off-Street Parking|Stainless Steel Appliances|Utilities Included|Secure Entrance|Granite Countertops|Washer/Dryer
+561,42.334814,-71.106064,2,2,1511,3276,Secure Entrance|Washer/Dryer|Granite Countertops|Utilities Included|Dishwasher|Stainless Steel Appliances|Picnic Area|Central Air|Off-Street Parking|Pool
+562,42.340629,-71.144249,0,1,489,854,Stainless Steel Appliances|Dishwasher
+563,42.358595,-71.10902,1,1,913,1927,Washer/Dryer|Secure Entrance|Dishwasher|Picnic Area|Central Air|Pool|Granite Countertops|Stainless Steel Appliances|Off-Street Parking|Fitness Center
+564,42.40773,-71.059622,1,1,951,2085,Off-Street Parking|Secure Entrance|Picnic Area|Fitness Center|Pool|Central Air|Utilities Included|Washer/Dryer|Dishwasher
+565,42.380874,-71.128478,3,2,1550,3761,Pool|Fitness Center|Picnic Area|Secure Entrance|Stainless Steel Appliances
+566,42.407755,-71.119055,1,1,733,1804,Central Air|Stainless Steel Appliances|Dishwasher|Off-Street Parking|Granite Countertops
+567,42.332865,-71.095089,3,1,1256,3002,Dishwasher|Fitness Center|Off-Street Parking|Stainless Steel Appliances|Secure Entrance|Granite Countertops|Central Air|Pool
+568,42.353253,-71.123285,0,1,296,956,Off-Street Parking|Granite Countertops|Picnic Area|Stainless Steel Appliances
+569,42.332642,-71.069113,2,2,1147,2872,Utilities Included|Pool|Secure Entrance|Stainless Steel Appliances
+570,42.321804,-71.140761,1,1,1145,1870,Stainless Steel Appliances|Fitness Center|Off-Street Parking|Central Air|Granite Countertops|Picnic Area|Pool|Washer/Dryer|Utilities Included
+571,42.365784,-71.152498,0,1,288,980,Picnic Area|Secure Entrance|Dishwasher|Stainless Steel Appliances|Washer/Dryer|Fitness Center|Granite Countertops|Pool
+572,42.350516,-71.115509,4,3,2253,4254,Central Air|Stainless Steel Appliances|Granite Countertops|Pool|Washer/Dryer|Secure Entrance|Picnic Area|Off-Street Parking|Fitness Center|Dishwasher|Utilities Included
+573,42.393055,-71.112838,1,1,941,1861,Fitness Center|Pool|Secure Entrance
+574,42.398305,-71.126678,0,1,667,1015,Secure Entrance|Picnic Area|Central Air|Fitness Center|Pool|Utilities Included|Off-Street Parking|Dishwasher
+575,42.32835,-71.066598,4,4,1865,4314,Fitness Center|Granite Countertops|Washer/Dryer|Central Air|Pool|Secure Entrance|Dishwasher|Stainless Steel Appliances|Utilities Included|Off-Street Parking|Picnic Area
+576,42.408107,-71.088383,0,1,660,1025,Secure Entrance|Stainless Steel Appliances|Dishwasher|Pool|Fitness Center
+577,42.326924,-71.141827,0,1,634,1081,Secure Entrance|Picnic Area|Off-Street Parking|Stainless Steel Appliances|Granite Countertops|Dishwasher
+578,42.348644,-71.060857,4,2,2223,3682,Central Air|Stainless Steel Appliances
+579,42.367079,-71.130534,0,1,421,1260,Picnic Area|Utilities Included|Pool|Washer/Dryer|Granite Countertops|Stainless Steel Appliances|Off-Street Parking|Dishwasher|Fitness Center|Secure Entrance
+580,42.376027,-71.152204,3,3,2042,3224,Stainless Steel Appliances|Central Air|Secure Entrance
+581,42.370797,-71.068459,2,1,1269,2133,Washer/Dryer|Picnic Area|Secure Entrance|Dishwasher|Central Air|Utilities Included
+582,42.401567,-71.116606,3,1,1877,3778,Central Air|Washer/Dryer
+583,42.367245,-71.123986,4,3,2683,3856,Pool|Granite Countertops|Washer/Dryer|Picnic Area|Utilities Included
+584,42.37132,-71.073359,1,1,783,1673,Stainless Steel Appliances|Washer/Dryer|Picnic Area|Granite Countertops|Dishwasher|Central Air|Fitness Center|Secure Entrance|Off-Street Parking|Utilities Included|Pool
+585,42.403619,-71.146056,3,1,1654,2922,Washer/Dryer
+586,42.351113,-71.084041,1,1,859,1598,Pool|Picnic Area|Utilities Included
+587,42.356961,-71.081823,2,2,1068,2926,Fitness Center|Off-Street Parking|Washer/Dryer|Stainless Steel Appliances
+588,42.410444,-71.093886,4,2,2601,4115,Fitness Center|Pool|Washer/Dryer
+589,42.316213,-71.099595,0,1,544,1187,Off-Street Parking|Secure Entrance|Utilities Included|Washer/Dryer|Dishwasher|Stainless Steel Appliances|Fitness Center|Granite Countertops|Central Air|Pool
+590,42.331836,-71.089938,3,1,1757,3596,Off-Street Parking|Washer/Dryer|Picnic Area|Stainless Steel Appliances
+591,42.383225,-71.095331,4,4,2322,4067,Stainless Steel Appliances|Central Air|Secure Entrance|Dishwasher|Utilities Included|Granite Countertops|Off-Street Parking|Fitness Center
+592,42.399369,-71.128304,1,1,1087,1784,Granite Countertops|Washer/Dryer|Stainless Steel Appliances|Fitness Center|Off-Street Parking|Pool|Central Air|Utilities Included|Secure Entrance
+593,42.321993,-71.127782,2,2,1812,2998,Granite Countertops|Off-Street Parking|Dishwasher|Secure Entrance|Picnic Area|Fitness Center
+594,42.408241,-71.111675,1,1,881,2039,Picnic Area|Central Air|Off-Street Parking|Secure Entrance|Washer/Dryer|Fitness Center|Utilities Included|Stainless Steel Appliances|Dishwasher|Pool
+595,42.317433,-71.058093,4,2,2359,3734,Utilities Included|Granite Countertops|Stainless Steel Appliances|Dishwasher|Off-Street Parking|Secure Entrance|Picnic Area|Washer/Dryer|Pool|Fitness Center
+596,42.414083,-71.064359,1,1,651,1722,Central Air|Granite Countertops|Secure Entrance|Washer/Dryer|Pool|Stainless Steel Appliances|Fitness Center|Off-Street Parking|Utilities Included
+597,42.335938,-71.14135,1,1,918,1443,Fitness Center|Granite Countertops
+598,42.367498,-71.097935,1,1,1104,1808,Central Air|Dishwasher|Utilities Included|Fitness Center|Picnic Area|Washer/Dryer|Off-Street Parking
+599,42.404857,-71.065766,4,2,2051,4033,Stainless Steel Appliances|Secure Entrance|Washer/Dryer|Utilities Included|Pool|Picnic Area|Dishwasher|Central Air|Fitness Center|Granite Countertops
+600,42.319539,-71.087917,0,1,747,927,Granite Countertops|Stainless Steel Appliances|Dishwasher|Off-Street Parking|Picnic Area
+601,42.379912,-71.097441,3,2,1835,3359,Off-Street Parking|Pool|Central Air|Utilities Included|Granite Countertops|Fitness Center|Stainless Steel Appliances
+602,42.373961,-71.127176,3,3,2077,3969,Picnic Area|Fitness Center|Secure Entrance
+603,42.409651,-71.135789,3,1,1452,3385,Pool|Central Air|Secure Entrance|Dishwasher
+604,42.387352,-71.066008,0,1,462,1026,Utilities Included|Stainless Steel Appliances|Pool|Central Air|Fitness Center|Dishwasher|Picnic Area|Washer/Dryer|Granite Countertops
+605,42.34047,-71.133137,4,4,2345,3880,Secure Entrance|Off-Street Parking|Utilities Included|Fitness Center|Dishwasher|Washer/Dryer|Pool|Granite Countertops|Central Air
+606,42.329875,-71.119513,3,1,2073,3162,Pool|Granite Countertops|Picnic Area|Stainless Steel Appliances|Central Air|Fitness Center|Utilities Included|Dishwasher|Off-Street Parking
+607,42.324955,-71.129773,4,1,2375,4143,Utilities Included|Granite Countertops|Stainless Steel Appliances|Pool|Fitness Center|Washer/Dryer|Picnic Area|Central Air|Off-Street Parking|Secure Entrance
+608,42.356461,-71.119872,1,1,1081,1700,Off-Street Parking
+609,42.37552,-71.12104,0,1,262,1122,Stainless Steel Appliances|Secure Entrance|Central Air|Granite Countertops|Washer/Dryer|Dishwasher|Fitness Center|Off-Street Parking
+610,42.375484,-71.069469,3,3,2200,3726,Utilities Included|Off-Street Parking|Secure Entrance|Picnic Area|Granite Countertops|Fitness Center
+611,42.341289,-71.134081,2,1,1237,2793,Granite Countertops|Washer/Dryer|Pool|Dishwasher|Central Air
+612,42.327066,-71.088553,2,2,1385,2797,Washer/Dryer|Dishwasher|Off-Street Parking|Picnic Area|Utilities Included|Central Air|Fitness Center|Stainless Steel Appliances
+613,42.357885,-71.144535,0,1,597,893,Utilities Included|Secure Entrance|Picnic Area
+614,42.37586,-71.076229,1,1,1022,1734,Stainless Steel Appliances|Dishwasher|Off-Street Parking|Fitness Center|Picnic Area|Pool|Washer/Dryer|Granite Countertops|Utilities Included|Central Air|Secure Entrance
+615,42.346385,-71.05848,4,4,2163,5308,Fitness Center|Picnic Area|Granite Countertops|Utilities Included|Dishwasher|Off-Street Parking|Central Air|Washer/Dryer|Secure Entrance
+616,42.34124,-71.152182,3,2,1683,3247,Utilities Included|Fitness Center|Stainless Steel Appliances|Dishwasher|Secure Entrance|Pool|Picnic Area
+617,42.398527,-71.143993,2,1,1677,2692,Utilities Included|Fitness Center|Dishwasher|Stainless Steel Appliances|Off-Street Parking|Washer/Dryer
+618,42.340338,-71.142522,2,2,1491,3159,Utilities Included|Pool
+619,42.401093,-71.09867,3,2,1624,3319,Washer/Dryer|Off-Street Parking|Central Air|Pool|Dishwasher|Granite Countertops|Secure Entrance|Stainless Steel Appliances|Utilities Included|Picnic Area
+620,42.365198,-71.086959,0,1,532,1125,Off-Street Parking|Central Air|Secure Entrance|Utilities Included|Fitness Center|Stainless Steel Appliances|Dishwasher|Pool|Granite Countertops
+621,42.40739,-71.085752,0,1,429,957,Picnic Area|Utilities Included|Dishwasher|Secure Entrance
+622,42.400953,-71.099975,4,2,1939,4208,Pool|Off-Street Parking|Dishwasher|Secure Entrance|Granite Countertops|Washer/Dryer|Stainless Steel Appliances|Fitness Center|Central Air
+623,42.373615,-71.105052,1,1,1139,1803,Picnic Area|Fitness Center|Off-Street Parking|Utilities Included|Central Air|Secure Entrance|Washer/Dryer|Stainless Steel Appliances|Dishwasher|Granite Countertops
+624,42.414228,-71.128229,1,1,959,1730,Pool|Washer/Dryer|Secure Entrance|Granite Countertops|Stainless Steel Appliances|Dishwasher|Off-Street Parking|Fitness Center|Picnic Area|Central Air
+625,42.317962,-71.117263,2,2,1304,2747,Secure Entrance|Stainless Steel Appliances|Utilities Included|Fitness Center|Off-Street Parking|Dishwasher|Granite Countertops|Pool|Picnic Area|Washer/Dryer|Central Air
+626,42.340966,-71.149816,0,1,718,1018,Pool|Picnic Area|Utilities Included|Secure Entrance|Fitness Center|Dishwasher|Stainless Steel Appliances|Washer/Dryer|Off-Street Parking
+627,42.362709,-71.136018,1,1,983,1869,Stainless Steel Appliances|Picnic Area|Fitness Center|Central Air|Off-Street Parking
+628,42.320966,-71.132144,2,1,1679,2474,Granite Countertops|Washer/Dryer|Central Air|Fitness Center|Stainless Steel Appliances|Pool|Dishwasher|Secure Entrance|Picnic Area
+629,42.372186,-71.135723,4,2,1868,3744,Secure Entrance|Utilities Included|Off-Street Parking|Pool|Picnic Area
+630,42.385507,-71.134843,3,3,1793,3513,Picnic Area|Granite Countertops|Dishwasher|Washer/Dryer|Pool|Secure Entrance|Central Air|Off-Street Parking|Stainless Steel Appliances
+631,42.370179,-71.142395,1,1,791,1576,Central Air|Off-Street Parking|Utilities Included
+632,42.370035,-71.127744,0,1,644,967,Utilities Included|Secure Entrance|Off-Street Parking|Washer/Dryer|Pool|Stainless Steel Appliances|Picnic Area
+633,42.387857,-71.11934,3,1,1826,3254,Central Air|Pool|Fitness Center|Granite Countertops|Stainless Steel Appliances|Dishwasher
+634,42.321086,-71.11234,1,1,740,1735,Off-Street Parking|Granite Countertops|Stainless Steel Appliances
+635,42.32852,-71.060226,2,2,1014,2955,Washer/Dryer|Off-Street Parking|Fitness Center|Secure Entrance
+636,42.393739,-71.147193,4,3,2070,4065,Dishwasher|Washer/Dryer|Picnic Area
+637,42.34791,-71.071291,2,1,1207,2170,Utilities Included|Picnic Area|Secure Entrance|Pool
+638,42.327192,-71.119261,3,2,1514,2960,Secure Entrance|Utilities Included
+639,42.34763,-71.083569,3,3,2249,3809,Picnic Area|Washer/Dryer|Stainless Steel Appliances|Fitness Center|Granite Countertops|Central Air|Pool|Secure Entrance|Off-Street Parking|Utilities Included
+640,42.381855,-71.112186,0,1,382,1197,Dishwasher|Washer/Dryer|Granite Countertops|Off-Street Parking|Central Air|Pool|Picnic Area|Utilities Included|Fitness Center
+641,42.376568,-71.116484,3,2,2128,3242,Pool|Secure Entrance
+642,42.393514,-71.116678,4,3,2302,3672,Fitness Center|Washer/Dryer|Utilities Included|Central Air|Picnic Area|Secure Entrance|Granite Countertops|Pool|Stainless Steel Appliances|Dishwasher|Off-Street Parking
+643,42.399137,-71.124068,1,1,918,1749,Secure Entrance|Fitness Center
+644,42.371544,-71.142799,1,1,977,1765,Stainless Steel Appliances|Pool|Dishwasher|Picnic Area|Off-Street Parking|Fitness Center|Central Air|Granite Countertops|Washer/Dryer|Secure Entrance
+645,42.394491,-71.085039,1,1,969,1536,Secure Entrance|Stainless Steel Appliances
+646,42.378104,-71.058992,1,1,1137,1596,Fitness Center|Secure Entrance
+647,42.387642,-71.078976,3,2,2234,3284,Central Air|Granite Countertops|Off-Street Parking
+648,42.350848,-71.112764,1,1,903,1536,Utilities Included|Dishwasher|Off-Street Parking|Washer/Dryer
+649,42.346775,-71.118234,4,2,2513,3888,Secure Entrance|Pool|Picnic Area|Utilities Included|Fitness Center|Stainless Steel Appliances|Dishwasher|Granite Countertops|Washer/Dryer|Central Air|Off-Street Parking
+650,42.412214,-71.08811,4,1,2142,3863,Fitness Center|Granite Countertops|Washer/Dryer|Central Air|Secure Entrance|Pool|Picnic Area|Off-Street Parking|Stainless Steel Appliances
+651,42.370613,-71.150603,0,1,417,977,Fitness Center|Stainless Steel Appliances|Utilities Included|Off-Street Parking|Dishwasher|Washer/Dryer
+652,42.408445,-71.150643,3,1,2327,3231,Fitness Center|Utilities Included
+653,42.322695,-71.078692,2,2,1335,2940,Pool|Washer/Dryer|Granite Countertops|Off-Street Parking|Dishwasher
+654,42.371358,-71.082543,0,1,416,986,Off-Street Parking|Stainless Steel Appliances|Pool|Washer/Dryer|Fitness Center|Utilities Included|Secure Entrance
+655,42.355413,-71.149085,4,1,2119,3561,Fitness Center|Granite Countertops|Dishwasher|Picnic Area
+656,42.326864,-71.124383,2,2,1678,2876,Stainless Steel Appliances|Dishwasher|Pool|Granite Countertops|Fitness Center|Utilities Included|Off-Street Parking|Picnic Area|Washer/Dryer|Central Air|Secure Entrance
+657,42.414243,-71.120532,0,1,402,1060,Off-Street Parking|Granite Countertops|Dishwasher|Stainless Steel Appliances|Pool|Picnic Area|Utilities Included|Secure Entrance|Washer/Dryer|Fitness Center
+658,42.39948,-71.111777,1,1,1050,1705,Picnic Area|Secure Entrance|Fitness Center|Stainless Steel Appliances|Utilities Included|Pool|Granite Countertops|Central Air|Dishwasher|Off-Street Parking
+659,42.330916,-71.111623,0,1,622,1012,Pool|Secure Entrance|Off-Street Parking|Washer/Dryer|Granite Countertops|Picnic Area|Fitness Center|Stainless Steel Appliances|Central Air|Dishwasher
+660,42.400032,-71.120845,0,1,341,951,Utilities Included|Fitness Center|Picnic Area|Off-Street Parking|Secure Entrance|Granite Countertops
+661,42.361012,-71.061983,2,1,1217,2349,Pool|Secure Entrance|Off-Street Parking|Fitness Center|Washer/Dryer|Central Air
+662,42.318781,-71.128018,1,1,902,1474,Picnic Area|Washer/Dryer|Stainless Steel Appliances|Utilities Included
+663,42.381986,-71.146681,1,1,723,1540,Off-Street Parking|Stainless Steel Appliances|Washer/Dryer|Granite Countertops
+664,42.354493,-71.12697,2,1,1286,2364,Granite Countertops|Central Air|Off-Street Parking|Pool|Stainless Steel Appliances
+665,42.398975,-71.133172,2,2,1582,2749,Picnic Area|Central Air|Secure Entrance|Fitness Center|Pool|Granite Countertops
+666,42.407769,-71.133414,0,1,743,1000,Central Air|Secure Entrance|Picnic Area|Off-Street Parking|Fitness Center|Utilities Included
+667,42.410405,-71.138555,4,3,1738,4054,Central Air|Utilities Included|Granite Countertops|Fitness Center|Dishwasher
+668,42.414195,-71.137205,1,1,689,1935,Off-Street Parking|Fitness Center|Granite Countertops|Secure Entrance|Dishwasher|Utilities Included|Washer/Dryer|Picnic Area|Stainless Steel Appliances|Central Air
+669,42.31654,-71.142156,1,1,1002,1556,Secure Entrance|Picnic Area|Stainless Steel Appliances|Dishwasher
+670,42.35767,-71.080334,2,1,1183,2212,Dishwasher|Picnic Area
+671,42.335743,-71.141697,1,1,988,1546,Picnic Area|Stainless Steel Appliances|Washer/Dryer|Secure Entrance|Pool
+672,42.39196,-71.126901,2,1,1192,2893,Utilities Included|Off-Street Parking|Fitness Center|Pool|Dishwasher|Stainless Steel Appliances|Picnic Area|Secure Entrance
+673,42.350057,-71.117873,0,1,340,1135,Picnic Area|Secure Entrance|Fitness Center|Utilities Included|Pool|Dishwasher|Granite Countertops|Off-Street Parking
+674,42.368577,-71.077313,0,1,552,1160,Off-Street Parking|Utilities Included|Secure Entrance|Dishwasher|Granite Countertops|Washer/Dryer|Picnic Area|Central Air|Fitness Center
+675,42.38621,-71.074702,3,1,1730,3868,Stainless Steel Appliances|Washer/Dryer|Off-Street Parking|Fitness Center|Pool|Picnic Area|Central Air|Dishwasher|Granite Countertops
+676,42.367168,-71.078228,3,1,1224,3490,Utilities Included|Fitness Center|Granite Countertops|Picnic Area|Central Air|Secure Entrance|Washer/Dryer|Pool|Off-Street Parking|Dishwasher
+677,42.325828,-71.118641,3,3,1785,3298,Pool|Granite Countertops|Picnic Area|Stainless Steel Appliances|Dishwasher|Central Air|Utilities Included|Washer/Dryer|Secure Entrance
+678,42.351256,-71.119261,3,3,2033,3324,Dishwasher|Washer/Dryer|Central Air
+679,42.331455,-71.14642,2,2,1442,3082,Central Air|Utilities Included|Secure Entrance|Washer/Dryer|Stainless Steel Appliances
+680,42.33852,-71.118701,1,1,1099,1653,Central Air|Washer/Dryer|Pool|Picnic Area|Secure Entrance|Dishwasher|Utilities Included|Fitness Center|Off-Street Parking|Stainless Steel Appliances|Granite Countertops
+681,42.392706,-71.126748,1,1,1214,1654,Utilities Included|Central Air|Off-Street Parking|Stainless Steel Appliances|Fitness Center|Secure Entrance|Picnic Area|Washer/Dryer
+682,42.370197,-71.102804,4,2,2501,3708,Granite Countertops|Picnic Area|Off-Street Parking|Dishwasher|Central Air|Stainless Steel Appliances|Secure Entrance
+683,42.33493,-71.14239,4,1,2739,4090,Stainless Steel Appliances|Pool|Utilities Included|Dishwasher|Picnic Area|Washer/Dryer
+684,42.371029,-71.077622,0,1,384,878,Dishwasher|Secure Entrance|Stainless Steel Appliances|Central Air|Granite Countertops|Utilities Included|Washer/Dryer
+685,42.407525,-71.09313,1,1,804,1756,Picnic Area|Off-Street Parking|Secure Entrance|Granite Countertops|Washer/Dryer|Stainless Steel Appliances|Fitness Center|Central Air|Pool|Dishwasher
+686,42.33662,-71.128836,1,1,653,1615,Picnic Area|Dishwasher
+687,42.357216,-71.140357,3,2,2320,3352,Picnic Area|Dishwasher|Pool|Off-Street Parking|Fitness Center|Utilities Included
+688,42.358068,-71.13599,4,3,2438,3649,Pool|Granite Countertops|Central Air|Washer/Dryer
+689,42.317423,-71.078286,0,1,644,1162,Utilities Included|Fitness Center|Stainless Steel Appliances|Off-Street Parking
+690,42.318541,-71.146653,1,1,890,1745,Washer/Dryer|Picnic Area|Dishwasher|Pool|Fitness Center|Off-Street Parking|Central Air
+691,42.403508,-71.071173,4,1,1950,3917,Central Air|Pool|Granite Countertops|Dishwasher|Utilities Included|Fitness Center|Stainless Steel Appliances|Picnic Area|Secure Entrance|Washer/Dryer
+692,42.34741,-71.086558,1,1,1212,1808,Dishwasher|Fitness Center
+693,42.316348,-71.131792,0,1,414,970,Granite Countertops|Dishwasher|Off-Street Parking
+694,42.323297,-71.147434,1,1,1221,2047,Dishwasher|Fitness Center|Washer/Dryer|Picnic Area|Utilities Included|Secure Entrance|Central Air|Granite Countertops|Stainless Steel Appliances
+695,42.390381,-71.078543,4,4,2293,4288,Central Air|Granite Countertops|Stainless Steel Appliances|Utilities Included|Secure Entrance|Picnic Area|Pool|Washer/Dryer
+696,42.37022,-71.073075,0,1,559,923,Secure Entrance|Fitness Center|Picnic Area|Stainless Steel Appliances|Utilities Included|Central Air
+697,42.413096,-71.125475,1,1,724,1860,Dishwasher|Utilities Included|Off-Street Parking|Stainless Steel Appliances|Washer/Dryer|Fitness Center|Pool
+698,42.350102,-71.081704,0,1,473,858,Off-Street Parking
+699,42.371494,-71.074793,2,2,1501,3302,Pool
+700,42.365119,-71.085434,1,1,1031,1845,Pool|Utilities Included|Secure Entrance|Picnic Area|Central Air|Granite Countertops|Off-Street Parking
+701,42.399259,-71.121547,0,1,708,1076,Granite Countertops|Fitness Center|Secure Entrance|Utilities Included|Washer/Dryer|Central Air|Off-Street Parking
+702,42.376868,-71.079997,2,1,1224,2865,Picnic Area|Pool|Utilities Included|Stainless Steel Appliances|Central Air
+703,42.342565,-71.066751,1,1,924,1613,Utilities Included|Fitness Center|Picnic Area
+704,42.363425,-71.120305,2,2,1531,2897,Secure Entrance|Picnic Area|Washer/Dryer|Pool|Granite Countertops|Dishwasher|Stainless Steel Appliances
+705,42.388878,-71.143276,0,1,326,906,Dishwasher|Picnic Area|Stainless Steel Appliances|Washer/Dryer
+706,42.366701,-71.118276,3,2,1549,3461,Granite Countertops|Utilities Included|Pool|Fitness Center|Central Air|Off-Street Parking|Picnic Area|Washer/Dryer|Stainless Steel Appliances|Secure Entrance|Dishwasher
+707,42.320052,-71.071586,3,1,1851,3390,Dishwasher|Pool|Off-Street Parking|Granite Countertops|Stainless Steel Appliances|Central Air|Secure Entrance|Washer/Dryer|Fitness Center
+708,42.362193,-71.095986,2,1,1684,2981,Granite Countertops|Dishwasher|Fitness Center|Utilities Included|Stainless Steel Appliances|Off-Street Parking
+709,42.338039,-71.065274,4,3,2451,3325,Granite Countertops|Stainless Steel Appliances|Dishwasher|Secure Entrance|Washer/Dryer|Pool
+710,42.363344,-71.085428,0,1,294,988,Washer/Dryer|Utilities Included|Fitness Center
+711,42.334303,-71.126709,4,2,1987,4041,Granite Countertops|Stainless Steel Appliances|Pool|Central Air|Off-Street Parking|Washer/Dryer|Picnic Area|Dishwasher|Utilities Included|Fitness Center|Secure Entrance
+712,42.392771,-71.080682,3,2,2060,3841,Picnic Area|Central Air|Stainless Steel Appliances|Pool|Off-Street Parking|Utilities Included|Washer/Dryer|Fitness Center|Granite Countertops|Secure Entrance|Dishwasher
+713,42.360833,-71.102481,3,1,1873,3245,Utilities Included|Central Air|Dishwasher|Granite Countertops|Pool|Off-Street Parking|Washer/Dryer
+714,42.360222,-71.060007,1,1,1135,1984,Washer/Dryer|Off-Street Parking|Picnic Area|Dishwasher|Utilities Included|Granite Countertops|Fitness Center
+715,42.33688,-71.088298,0,1,256,1119,Fitness Center|Dishwasher|Stainless Steel Appliances|Secure Entrance|Pool|Washer/Dryer|Granite Countertops|Off-Street Parking|Central Air|Utilities Included|Picnic Area
+716,42.355441,-71.132195,4,2,2788,4199,Utilities Included|Off-Street Parking|Stainless Steel Appliances|Picnic Area
+717,42.316137,-71.102626,0,1,596,972,Picnic Area|Secure Entrance|Fitness Center
+718,42.344957,-71.149815,1,1,910,1694,Off-Street Parking|Central Air|Fitness Center|Washer/Dryer|Picnic Area
+719,42.401277,-71.070545,3,2,2027,3389,Granite Countertops|Fitness Center
+720,42.373045,-71.143665,3,2,1543,3055,Pool
+721,42.366193,-71.060867,2,1,1826,2620,Central Air|Fitness Center
+722,42.346455,-71.091603,2,2,1490,2989,Stainless Steel Appliances|Picnic Area|Secure Entrance|Fitness Center
+723,42.347362,-71.072092,2,1,1426,2466,Secure Entrance|Granite Countertops|Washer/Dryer|Central Air|Utilities Included|Off-Street Parking|Fitness Center|Picnic Area|Stainless Steel Appliances|Pool|Dishwasher
+724,42.41165,-71.076791,1,1,929,1842,Granite Countertops|Fitness Center|Secure Entrance|Central Air|Off-Street Parking|Picnic Area|Utilities Included|Dishwasher
+725,42.360968,-71.10911,3,3,2258,3394,Utilities Included|Dishwasher|Picnic Area|Fitness Center|Secure Entrance|Granite Countertops
+726,42.348593,-71.065412,2,2,1551,2633,Granite Countertops|Washer/Dryer|Dishwasher|Secure Entrance|Central Air|Picnic Area|Pool
+727,42.358733,-71.054032,3,1,1717,3254,Dishwasher|Utilities Included|Central Air|Granite Countertops|Washer/Dryer|Stainless Steel Appliances|Picnic Area|Pool|Fitness Center|Secure Entrance
+728,42.363156,-71.135543,2,2,1600,3295,Dishwasher|Washer/Dryer|Off-Street Parking|Utilities Included|Picnic Area|Granite Countertops|Stainless Steel Appliances|Pool|Fitness Center|Secure Entrance|Central Air
+729,42.329985,-71.08101,2,1,1453,2454,Fitness Center|Off-Street Parking
+730,42.397713,-71.150595,3,2,2008,3397,Central Air|Pool|Washer/Dryer|Dishwasher|Off-Street Parking|Utilities Included|Picnic Area|Fitness Center|Granite Countertops|Stainless Steel Appliances|Secure Entrance
+731,42.341973,-71.099954,3,3,2030,3456,Utilities Included|Washer/Dryer|Central Air|Off-Street Parking|Fitness Center|Secure Entrance|Pool|Stainless Steel Appliances|Granite Countertops|Dishwasher|Picnic Area
+732,42.381282,-71.068453,4,4,2131,4510,Fitness Center|Washer/Dryer|Picnic Area|Off-Street Parking
+733,42.336351,-71.083205,4,1,2342,3803,Central Air|Fitness Center|Off-Street Parking|Picnic Area|Granite Countertops|Stainless Steel Appliances
+734,42.340042,-71.14521,4,3,2092,4205,Washer/Dryer|Dishwasher|Utilities Included|Pool|Stainless Steel Appliances|Picnic Area|Secure Entrance|Fitness Center|Off-Street Parking|Granite Countertops|Central Air
+735,42.358771,-71.128075,4,4,2215,4215,Dishwasher|Off-Street Parking|Picnic Area|Central Air|Granite Countertops|Stainless Steel Appliances|Fitness Center
+736,42.333927,-71.12034,2,1,1229,2741,Pool|Off-Street Parking|Stainless Steel Appliances|Central Air|Granite Countertops|Secure Entrance|Picnic Area|Washer/Dryer|Fitness Center|Utilities Included
+737,42.358692,-71.083165,1,1,659,1846,Picnic Area|Off-Street Parking|Washer/Dryer|Utilities Included|Granite Countertops
+738,42.366777,-71.071358,1,1,980,2124,Utilities Included|Stainless Steel Appliances|Off-Street Parking|Secure Entrance|Picnic Area|Pool|Washer/Dryer|Fitness Center|Central Air
+739,42.39531,-71.119191,2,2,1220,2536,Secure Entrance
+740,42.355011,-71.078898,0,1,315,1032,Utilities Included|Pool|Picnic Area|Granite Countertops|Washer/Dryer|Stainless Steel Appliances
+741,42.347876,-71.07188,1,1,687,1496,Granite Countertops|Utilities Included|Dishwasher
+742,42.349157,-71.057295,1,1,581,1828,Secure Entrance|Washer/Dryer|Dishwasher|Utilities Included|Off-Street Parking|Central Air|Pool|Fitness Center|Stainless Steel Appliances|Granite Countertops|Picnic Area
+743,42.375415,-71.083707,1,1,992,1851,Picnic Area|Stainless Steel Appliances|Off-Street Parking|Pool
+744,42.351093,-71.094824,0,1,661,926,Washer/Dryer|Stainless Steel Appliances|Granite Countertops|Picnic Area|Secure Entrance|Pool|Central Air|Utilities Included
+745,42.362312,-71.134469,3,1,1843,2818,Stainless Steel Appliances|Granite Countertops|Washer/Dryer|Secure Entrance
+746,42.382645,-71.108816,2,1,1313,2206,Utilities Included|Fitness Center
+747,42.333852,-71.121616,2,2,1604,3062,Stainless Steel Appliances|Dishwasher|Granite Countertops|Central Air
+748,42.345493,-71.114246,4,2,2416,4025,Off-Street Parking|Dishwasher|Washer/Dryer|Pool
+749,42.339946,-71.112969,0,1,706,1042,Central Air|Fitness Center|Dishwasher|Stainless Steel Appliances|Picnic Area|Utilities Included|Washer/Dryer|Pool|Secure Entrance
+750,42.381207,-71.128339,2,1,1550,2541,Secure Entrance|Dishwasher|Granite Countertops|Utilities Included
+751,42.358455,-71.063367,3,2,1727,3208,Pool|Secure Entrance|Off-Street Parking|Picnic Area|Fitness Center|Washer/Dryer|Stainless Steel Appliances|Utilities Included|Granite Countertops
+752,42.394624,-71.057803,1,1,661,1951,Fitness Center|Off-Street Parking|Secure Entrance|Picnic Area|Dishwasher|Washer/Dryer
+753,42.368844,-71.079994,0,1,747,924,Stainless Steel Appliances|Utilities Included
+754,42.377758,-71.057892,4,4,1821,4198,Stainless Steel Appliances|Picnic Area|Fitness Center|Central Air|Off-Street Parking|Washer/Dryer|Utilities Included
+755,42.333507,-71.108376,2,2,1637,2562,Secure Entrance|Dishwasher|Utilities Included|Fitness Center|Stainless Steel Appliances|Picnic Area
+756,42.327648,-71.134284,1,1,806,1475,Fitness Center|Central Air|Utilities Included|Secure Entrance|Washer/Dryer|Stainless Steel Appliances|Granite Countertops|Pool|Picnic Area
+757,42.393127,-71.091114,4,1,2259,3734,Off-Street Parking|Stainless Steel Appliances|Central Air|Washer/Dryer|Secure Entrance
+758,42.324605,-71.147647,0,1,491,985,Off-Street Parking
+759,42.401753,-71.131501,3,1,2518,3216,Stainless Steel Appliances|Utilities Included|Central Air|Picnic Area|Pool|Off-Street Parking|Secure Entrance|Washer/Dryer|Granite Countertops|Dishwasher
+760,42.32638,-71.072844,4,1,2347,4820,Picnic Area|Pool|Washer/Dryer|Off-Street Parking|Granite Countertops|Central Air|Fitness Center
+761,42.386435,-71.084308,2,1,1686,2529,Pool|Picnic Area|Fitness Center|Stainless Steel Appliances|Central Air|Granite Countertops
+762,42.326593,-71.114168,2,2,1152,3126,Pool|Stainless Steel Appliances|Washer/Dryer|Central Air|Dishwasher|Fitness Center|Off-Street Parking|Granite Countertops
+763,42.392042,-71.121818,4,3,2554,3892,Pool|Off-Street Parking|Secure Entrance|Picnic Area|Utilities Included|Granite Countertops|Stainless Steel Appliances|Central Air|Dishwasher|Washer/Dryer|Fitness Center
+764,42.319562,-71.110196,2,1,1475,2144,Granite Countertops|Central Air|Pool|Dishwasher|Fitness Center|Stainless Steel Appliances
+765,42.331358,-71.069212,3,1,2084,3333,Off-Street Parking|Central Air|Granite Countertops|Dishwasher|Fitness Center|Pool
+766,42.405676,-71.09005,3,2,2379,3454,Dishwasher|Pool|Fitness Center|Washer/Dryer|Secure Entrance|Picnic Area|Utilities Included|Off-Street Parking|Central Air
+767,42.383999,-71.059586,3,3,2460,3897,Granite Countertops|Pool|Fitness Center|Picnic Area|Washer/Dryer|Dishwasher|Secure Entrance
+768,42.367448,-71.140716,1,1,1054,1778,Secure Entrance|Granite Countertops|Central Air|Off-Street Parking|Utilities Included
+769,42.391335,-71.145174,2,2,1473,2951,Washer/Dryer|Pool
+770,42.37836,-71.131287,3,1,2017,3183,Dishwasher|Secure Entrance|Washer/Dryer|Fitness Center|Picnic Area|Central Air|Pool|Off-Street Parking|Granite Countertops|Stainless Steel Appliances
+771,42.384824,-71.143329,1,1,803,1725,Pool|Stainless Steel Appliances|Dishwasher|Granite Countertops|Picnic Area
+772,42.353536,-71.128655,4,3,1935,4682,Fitness Center|Central Air|Pool|Granite Countertops|Picnic Area|Utilities Included|Dishwasher|Off-Street Parking|Secure Entrance|Washer/Dryer
+773,42.343252,-71.11165,4,4,2025,4664,Picnic Area|Utilities Included|Granite Countertops|Secure Entrance|Washer/Dryer|Dishwasher|Off-Street Parking|Pool|Stainless Steel Appliances|Fitness Center|Central Air
+774,42.404681,-71.088378,3,1,1503,3109,Fitness Center|Central Air|Washer/Dryer|Off-Street Parking|Dishwasher|Secure Entrance|Granite Countertops|Picnic Area|Utilities Included|Stainless Steel Appliances
+775,42.351568,-71.062946,4,3,2298,3887,Dishwasher|Stainless Steel Appliances|Fitness Center|Central Air|Secure Entrance|Granite Countertops|Utilities Included|Off-Street Parking|Picnic Area|Pool
+776,42.363524,-71.061465,1,1,904,1521,Dishwasher|Picnic Area|Utilities Included|Granite Countertops|Central Air|Secure Entrance|Off-Street Parking
+777,42.41011,-71.137524,3,1,1438,3453,Fitness Center|Granite Countertops|Picnic Area|Off-Street Parking|Utilities Included|Secure Entrance|Pool|Washer/Dryer
+778,42.370203,-71.138003,0,1,614,1066,Utilities Included|Off-Street Parking|Washer/Dryer|Granite Countertops|Stainless Steel Appliances
+779,42.346162,-71.1026,0,1,445,883,Off-Street Parking
+780,42.369071,-71.080076,2,2,1576,2938,Secure Entrance|Stainless Steel Appliances|Off-Street Parking
+781,42.406007,-71.132172,0,1,647,979,Picnic Area|Fitness Center|Stainless Steel Appliances|Off-Street Parking|Utilities Included|Secure Entrance|Washer/Dryer|Central Air
+782,42.377525,-71.071751,4,4,2105,4396,Off-Street Parking|Pool|Granite Countertops
+783,42.327628,-71.132378,2,2,1645,3020,Dishwasher|Granite Countertops|Washer/Dryer|Stainless Steel Appliances|Secure Entrance|Pool|Picnic Area|Fitness Center
+784,42.329988,-71.105092,1,1,617,1680,Off-Street Parking|Secure Entrance|Granite Countertops|Fitness Center
+785,42.321426,-71.06032,2,2,1562,3140,Fitness Center|Picnic Area|Secure Entrance|Washer/Dryer|Dishwasher|Off-Street Parking|Stainless Steel Appliances|Utilities Included
+786,42.387322,-71.131768,1,1,946,1932,Washer/Dryer|Granite Countertops|Secure Entrance|Off-Street Parking
+787,42.413301,-71.092246,1,1,734,1694,Picnic Area|Dishwasher|Washer/Dryer|Fitness Center|Off-Street Parking|Utilities Included|Granite Countertops
+788,42.353259,-71.080908,0,1,299,1009,Granite Countertops|Stainless Steel Appliances|Off-Street Parking|Fitness Center|Utilities Included|Secure Entrance|Dishwasher|Central Air|Pool|Picnic Area
+789,42.323603,-71.114786,3,2,1571,3496,Picnic Area|Stainless Steel Appliances|Washer/Dryer|Central Air|Dishwasher|Off-Street Parking
+790,42.392254,-71.147817,4,3,1940,4209,Fitness Center|Washer/Dryer|Stainless Steel Appliances
+791,42.410276,-71.097655,4,4,2413,4706,Stainless Steel Appliances|Granite Countertops|Secure Entrance|Central Air|Dishwasher|Pool|Picnic Area
+792,42.378784,-71.0737,2,2,1071,2887,Off-Street Parking|Central Air|Stainless Steel Appliances|Dishwasher|Pool|Washer/Dryer|Secure Entrance|Utilities Included
+793,42.324213,-71.060814,2,1,1365,2567,Picnic Area|Utilities Included|Fitness Center|Off-Street Parking|Pool|Secure Entrance|Granite Countertops|Dishwasher|Stainless Steel Appliances|Central Air|Washer/Dryer
+794,42.397327,-71.144723,4,3,2604,4381,Granite Countertops|Pool|Secure Entrance|Washer/Dryer|Picnic Area|Central Air|Fitness Center|Dishwasher|Stainless Steel Appliances
+795,42.349329,-71.102848,3,2,1840,3057,Secure Entrance|Fitness Center|Picnic Area|Pool|Granite Countertops|Washer/Dryer|Utilities Included|Stainless Steel Appliances
+796,42.412443,-71.108494,2,1,1464,2658,Pool|Washer/Dryer|Central Air|Secure Entrance|Stainless Steel Appliances|Dishwasher|Utilities Included
+797,42.322268,-71.092041,1,1,685,1668,Off-Street Parking|Granite Countertops|Utilities Included|Stainless Steel Appliances|Secure Entrance|Dishwasher|Picnic Area|Central Air
+798,42.38767,-71.076462,4,3,2341,3949,Dishwasher|Off-Street Parking|Washer/Dryer|Utilities Included|Granite Countertops|Pool
+799,42.344702,-71.137809,3,3,1892,3594,Picnic Area|Dishwasher|Secure Entrance|Off-Street Parking|Granite Countertops|Central Air|Washer/Dryer|Pool|Fitness Center|Stainless Steel Appliances
+800,42.357426,-71.06406,1,1,967,1488,Utilities Included|Pool|Dishwasher|Secure Entrance|Picnic Area
+801,42.410942,-71.12832,1,1,823,1696,Central Air|Picnic Area|Fitness Center|Pool|Utilities Included|Dishwasher|Secure Entrance
+802,42.367019,-71.129041,2,2,1378,2737,Central Air|Utilities Included|Picnic Area|Pool
+803,42.35392,-71.080743,1,1,553,1810,Picnic Area|Fitness Center|Washer/Dryer|Utilities Included|Dishwasher
+804,42.355887,-71.142673,3,3,1380,3503,Pool|Dishwasher|Picnic Area|Utilities Included|Granite Countertops
+805,42.350935,-71.107598,3,2,2030,3135,Pool|Granite Countertops|Off-Street Parking|Central Air|Fitness Center
+806,42.370294,-71.065078,3,3,1690,3935,Washer/Dryer|Fitness Center|Stainless Steel Appliances|Off-Street Parking|Granite Countertops|Dishwasher|Central Air|Utilities Included|Pool|Picnic Area|Secure Entrance
+807,42.409747,-71.078683,2,1,1296,2180,Washer/Dryer|Picnic Area|Off-Street Parking|Granite Countertops
+808,42.406904,-71.117337,2,2,1277,3326,Stainless Steel Appliances|Pool|Secure Entrance|Washer/Dryer|Dishwasher
+809,42.387033,-71.091984,1,1,956,1716,Utilities Included|Granite Countertops|Central Air|Picnic Area|Pool|Stainless Steel Appliances|Fitness Center
+810,42.342131,-71.086278,0,1,273,864,Granite Countertops
+811,42.366569,-71.106728,1,1,1217,1991,Off-Street Parking|Pool|Stainless Steel Appliances|Utilities Included|Picnic Area|Dishwasher|Granite Countertops|Secure Entrance
+812,42.408435,-71.08432,2,2,1136,3021,Stainless Steel Appliances|Off-Street Parking|Secure Entrance
+813,42.389087,-71.107723,2,1,1305,2523,Dishwasher|Pool|Central Air|Secure Entrance|Utilities Included
+814,42.34793,-71.120713,4,4,2408,3902,Secure Entrance|Fitness Center|Off-Street Parking|Washer/Dryer|Stainless Steel Appliances|Utilities Included|Pool|Central Air|Picnic Area|Dishwasher
+815,42.373527,-71.072516,0,1,267,1040,Stainless Steel Appliances|Granite Countertops|Pool|Secure Entrance
+816,42.373064,-71.054944,2,1,1839,2313,Dishwasher|Pool|Secure Entrance|Washer/Dryer|Fitness Center|Granite Countertops|Central Air|Off-Street Parking
+817,42.410735,-71.11794,0,1,317,914,Granite Countertops|Off-Street Parking|Stainless Steel Appliances|Pool|Secure Entrance
+818,42.394371,-71.080069,4,4,1943,4166,Stainless Steel Appliances|Picnic Area|Granite Countertops|Fitness Center
+819,42.351695,-71.079707,0,1,596,976,Fitness Center|Central Air|Pool|Off-Street Parking
+820,42.359813,-71.081312,1,1,1036,1863,Washer/Dryer|Central Air|Stainless Steel Appliances|Dishwasher|Granite Countertops|Fitness Center|Secure Entrance|Picnic Area|Pool|Off-Street Parking
+821,42.352167,-71.077706,4,2,2096,3544,Secure Entrance|Granite Countertops|Picnic Area|Stainless Steel Appliances|Utilities Included|Off-Street Parking|Fitness Center|Dishwasher|Washer/Dryer
+822,42.323238,-71.140314,3,2,1483,3062,Pool|Central Air|Dishwasher|Off-Street Parking
+823,42.363489,-71.060887,2,1,1567,2530,Fitness Center|Off-Street Parking|Utilities Included|Stainless Steel Appliances|Dishwasher|Central Air|Pool
+824,42.353831,-71.067383,4,1,1913,4400,Secure Entrance|Utilities Included|Washer/Dryer|Pool|Picnic Area
+825,42.31582,-71.14637,3,3,1924,3583,Central Air|Granite Countertops|Fitness Center|Dishwasher|Utilities Included|Picnic Area|Secure Entrance
+826,42.370427,-71.05761,1,1,924,1493,Dishwasher|Stainless Steel Appliances|Washer/Dryer|Fitness Center|Off-Street Parking|Granite Countertops|Central Air|Picnic Area|Pool
+827,42.388567,-71.102478,4,4,2222,4402,Off-Street Parking|Pool|Central Air|Secure Entrance|Washer/Dryer|Fitness Center
+828,42.348698,-71.099861,3,1,1946,3401,Off-Street Parking|Central Air
+829,42.412084,-71.084896,1,1,929,1518,Granite Countertops|Picnic Area|Washer/Dryer|Utilities Included|Secure Entrance|Fitness Center|Central Air|Pool|Off-Street Parking|Dishwasher|Stainless Steel Appliances
+830,42.335895,-71.073623,1,1,836,1715,Pool|Utilities Included|Dishwasher|Secure Entrance|Central Air
+831,42.402283,-71.140287,0,1,622,862,Dishwasher
+832,42.344316,-71.08082,4,4,2261,4800,Stainless Steel Appliances|Pool|Washer/Dryer|Fitness Center|Granite Countertops|Picnic Area|Dishwasher
+833,42.377677,-71.136405,3,3,2089,3500,Granite Countertops|Pool|Secure Entrance|Central Air|Picnic Area|Dishwasher
+834,42.332922,-71.055686,4,3,2170,3995,Central Air|Picnic Area|Pool|Granite Countertops|Washer/Dryer|Off-Street Parking|Secure Entrance|Utilities Included|Stainless Steel Appliances|Dishwasher|Fitness Center
+835,42.372244,-71.089049,2,2,1410,2955,Granite Countertops|Fitness Center|Stainless Steel Appliances|Off-Street Parking|Utilities Included|Washer/Dryer|Dishwasher|Secure Entrance|Pool
+836,42.327387,-71.120492,3,1,1598,3637,Dishwasher|Pool|Off-Street Parking|Secure Entrance|Washer/Dryer
+837,42.386298,-71.091197,0,1,651,993,Picnic Area|Utilities Included|Granite Countertops|Fitness Center|Dishwasher|Secure Entrance|Off-Street Parking|Central Air
+838,42.384981,-71.058981,0,1,623,842,Central Air|Stainless Steel Appliances
+839,42.334403,-71.054625,2,1,1683,2813,Secure Entrance|Picnic Area|Central Air|Utilities Included|Off-Street Parking|Stainless Steel Appliances|Washer/Dryer
+840,42.335726,-71.095904,0,1,749,1006,Dishwasher|Pool|Picnic Area|Off-Street Parking
+841,42.41002,-71.115094,0,1,312,1036,Dishwasher|Central Air|Off-Street Parking|Utilities Included|Pool|Washer/Dryer
+842,42.363986,-71.132599,1,1,1192,1770,Pool
+843,42.379915,-71.145902,0,1,402,1119,Picnic Area|Central Air|Off-Street Parking|Utilities Included|Granite Countertops|Stainless Steel Appliances|Secure Entrance|Dishwasher|Washer/Dryer
+844,42.396728,-71.059277,0,1,606,1159,Off-Street Parking|Washer/Dryer|Pool|Secure Entrance|Granite Countertops|Central Air|Utilities Included|Stainless Steel Appliances|Dishwasher|Fitness Center
+845,42.35471,-71.134827,2,1,1298,2702,Central Air|Stainless Steel Appliances|Picnic Area|Dishwasher|Secure Entrance
+846,42.405212,-71.077353,1,1,926,1622,Off-Street Parking|Secure Entrance|Utilities Included|Fitness Center|Central Air|Picnic Area
+847,42.385495,-71.06653,4,4,2028,3955,Off-Street Parking|Picnic Area|Granite Countertops
+848,42.380522,-71.117565,0,1,469,1081,Utilities Included|Central Air|Secure Entrance|Fitness Center
+849,42.392579,-71.113088,4,2,2277,3968,Central Air|Picnic Area|Utilities Included|Washer/Dryer|Dishwasher
+850,42.378854,-71.113861,4,2,2500,4053,Fitness Center|Granite Countertops|Off-Street Parking|Central Air
+851,42.367817,-71.110814,1,1,1003,1849,Picnic Area|Off-Street Parking
+852,42.337639,-71.137012,0,1,336,1123,Fitness Center|Dishwasher|Granite Countertops|Secure Entrance|Off-Street Parking|Pool|Central Air|Utilities Included
+853,42.379504,-71.149772,2,2,1381,2869,Off-Street Parking|Pool
+854,42.409328,-71.118627,3,2,1377,2973,Stainless Steel Appliances|Washer/Dryer|Pool|Central Air|Dishwasher|Secure Entrance|Utilities Included|Off-Street Parking
+855,42.352505,-71.070595,1,1,829,1959,Dishwasher|Washer/Dryer|Secure Entrance|Utilities Included|Pool|Picnic Area|Fitness Center|Central Air|Granite Countertops|Off-Street Parking
+856,42.322151,-71.139322,1,1,1060,2019,Off-Street Parking|Secure Entrance|Dishwasher|Pool|Granite Countertops|Utilities Included|Picnic Area|Stainless Steel Appliances
+857,42.414445,-71.079714,4,2,2280,4433,Fitness Center|Picnic Area|Utilities Included|Central Air|Granite Countertops|Off-Street Parking|Washer/Dryer|Stainless Steel Appliances|Secure Entrance|Dishwasher
+858,42.338582,-71.131046,4,4,2439,4528,Picnic Area|Granite Countertops|Utilities Included|Washer/Dryer|Central Air|Off-Street Parking|Pool|Secure Entrance|Dishwasher
+859,42.363878,-71.077749,2,2,1655,2588,Dishwasher|Utilities Included|Secure Entrance|Stainless Steel Appliances
+860,42.411384,-71.108969,0,1,348,1075,Secure Entrance|Granite Countertops|Utilities Included|Off-Street Parking|Dishwasher|Washer/Dryer|Central Air
+861,42.318699,-71.139801,4,4,2586,5033,Picnic Area|Fitness Center
+862,42.328098,-71.069485,0,1,723,1161,Central Air|Washer/Dryer|Stainless Steel Appliances|Dishwasher|Picnic Area|Off-Street Parking|Fitness Center|Granite Countertops|Secure Entrance|Pool|Utilities Included
+863,42.355869,-71.097019,2,2,1470,2926,Off-Street Parking|Central Air|Pool|Picnic Area|Stainless Steel Appliances|Granite Countertops|Washer/Dryer|Utilities Included|Fitness Center|Secure Entrance|Dishwasher
+864,42.407961,-71.115554,1,1,1107,1679,Utilities Included|Granite Countertops|Fitness Center|Off-Street Parking
+865,42.34421,-71.09195,4,3,1907,3945,Picnic Area|Granite Countertops|Dishwasher|Off-Street Parking|Pool|Fitness Center
+866,42.38639,-71.150333,2,2,1450,2845,Pool|Dishwasher|Picnic Area|Secure Entrance|Stainless Steel Appliances|Central Air|Utilities Included|Fitness Center|Off-Street Parking|Granite Countertops
+867,42.407147,-71.096231,3,1,1904,2844,Pool|Picnic Area|Granite Countertops|Dishwasher|Stainless Steel Appliances
+868,42.362335,-71.059072,1,1,672,1909,Utilities Included|Pool|Off-Street Parking|Picnic Area|Washer/Dryer|Central Air
+869,42.362459,-71.086086,0,1,484,1018,Fitness Center|Secure Entrance|Dishwasher|Washer/Dryer|Pool|Granite Countertops
+870,42.38111,-71.053841,0,1,524,1240,Dishwasher|Pool|Granite Countertops|Fitness Center|Utilities Included|Off-Street Parking|Secure Entrance|Washer/Dryer|Picnic Area|Stainless Steel Appliances
+871,42.412008,-71.152559,0,1,699,920,Fitness Center|Off-Street Parking|Pool|Picnic Area|Washer/Dryer
+872,42.395399,-71.115001,3,2,1982,2794,Picnic Area|Washer/Dryer
+873,42.373116,-71.067218,1,1,962,1754,Fitness Center|Stainless Steel Appliances|Dishwasher|Central Air
+874,42.386545,-71.1436,4,4,1837,4280,Central Air|Pool|Dishwasher|Picnic Area
+875,42.34307,-71.124306,0,1,651,1181,Secure Entrance|Fitness Center|Dishwasher|Utilities Included|Stainless Steel Appliances|Washer/Dryer|Off-Street Parking|Granite Countertops
+876,42.377531,-71.066025,4,1,2705,3839,Dishwasher|Central Air|Stainless Steel Appliances|Fitness Center|Secure Entrance|Granite Countertops|Picnic Area|Pool|Utilities Included|Washer/Dryer
+877,42.37522,-71.10416,3,2,1672,3204,Fitness Center|Granite Countertops|Dishwasher|Stainless Steel Appliances|Off-Street Parking
+878,42.406526,-71.136323,2,1,1499,2675,Off-Street Parking|Pool|Secure Entrance|Fitness Center|Utilities Included|Dishwasher|Picnic Area|Granite Countertops
+879,42.338648,-71.09969,0,1,464,1056,Picnic Area|Dishwasher|Washer/Dryer|Granite Countertops|Stainless Steel Appliances|Secure Entrance|Off-Street Parking|Pool|Utilities Included|Central Air
+880,42.352821,-71.095208,3,1,1980,3172,Picnic Area|Central Air|Washer/Dryer|Fitness Center|Pool|Dishwasher|Off-Street Parking
+881,42.349083,-71.122485,4,2,2384,3591,Pool|Central Air|Secure Entrance|Stainless Steel Appliances|Dishwasher|Granite Countertops|Picnic Area|Utilities Included|Washer/Dryer|Off-Street Parking
+882,42.389238,-71.128221,4,4,1995,4514,Granite Countertops|Washer/Dryer|Stainless Steel Appliances|Off-Street Parking|Fitness Center
+883,42.316604,-71.102049,2,1,1448,2666,Pool|Utilities Included|Central Air|Picnic Area|Stainless Steel Appliances|Washer/Dryer|Fitness Center|Off-Street Parking|Secure Entrance|Granite Countertops
+884,42.315613,-71.072636,3,1,2024,3068,Picnic Area|Stainless Steel Appliances|Dishwasher|Fitness Center|Pool
+885,42.383349,-71.07022,2,2,1437,2778,Dishwasher
+886,42.322727,-71.070734,3,2,1642,3224,Pool|Washer/Dryer|Fitness Center|Granite Countertops|Picnic Area|Secure Entrance|Stainless Steel Appliances
+887,42.374238,-71.05883,4,2,2391,4069,Fitness Center|Secure Entrance
+888,42.362314,-71.129584,3,1,1904,3973,Fitness Center|Secure Entrance|Central Air|Washer/Dryer|Off-Street Parking|Granite Countertops|Picnic Area|Dishwasher|Stainless Steel Appliances
+889,42.325602,-71.13553,4,1,2076,3366,Off-Street Parking|Pool|Washer/Dryer
+890,42.331562,-71.098298,4,4,2418,4837,Utilities Included|Picnic Area|Dishwasher|Secure Entrance|Off-Street Parking|Washer/Dryer|Central Air|Pool|Granite Countertops|Stainless Steel Appliances|Fitness Center
+891,42.400347,-71.061095,4,3,2543,3453,Central Air|Granite Countertops|Washer/Dryer
+892,42.323824,-71.114225,3,1,2300,3384,Fitness Center|Picnic Area|Secure Entrance|Washer/Dryer|Pool|Dishwasher|Granite Countertops|Utilities Included|Off-Street Parking
+893,42.323093,-71.101257,4,3,2613,4529,Granite Countertops|Secure Entrance|Fitness Center|Washer/Dryer
+894,42.412837,-71.086889,3,2,1579,3318,Secure Entrance|Picnic Area|Pool|Utilities Included|Stainless Steel Appliances|Central Air|Off-Street Parking|Granite Countertops|Dishwasher|Washer/Dryer|Fitness Center
+895,42.363318,-71.148812,2,2,1061,2719,Utilities Included|Dishwasher|Secure Entrance
+896,42.324154,-71.074978,4,1,2224,4069,Washer/Dryer|Secure Entrance|Off-Street Parking|Dishwasher|Utilities Included|Fitness Center|Granite Countertops|Stainless Steel Appliances
+897,42.343674,-71.127174,0,1,652,1021,Utilities Included|Washer/Dryer|Dishwasher|Stainless Steel Appliances|Off-Street Parking|Fitness Center|Central Air|Secure Entrance|Pool|Picnic Area
+898,42.376686,-71.144581,1,1,959,1506,Off-Street Parking
+899,42.345744,-71.070347,1,1,920,1960,Picnic Area|Washer/Dryer|Fitness Center|Pool|Off-Street Parking
+900,42.388556,-71.082131,1,1,716,1658,Dishwasher|Central Air|Secure Entrance|Off-Street Parking
+901,42.347344,-71.093209,1,1,1232,1631,Granite Countertops|Secure Entrance|Off-Street Parking|Washer/Dryer|Picnic Area|Stainless Steel Appliances|Utilities Included
+902,42.388315,-71.088772,3,3,1941,3950,Central Air|Fitness Center|Granite Countertops
+903,42.370898,-71.106017,0,1,461,903,Dishwasher|Off-Street Parking|Central Air|Pool|Washer/Dryer|Picnic Area
+904,42.355222,-71.061003,1,1,1173,1787,Granite Countertops|Picnic Area|Stainless Steel Appliances
+905,42.401528,-71.105564,0,1,287,1011,Fitness Center|Granite Countertops|Stainless Steel Appliances|Picnic Area|Utilities Included
+906,42.383355,-71.121865,3,1,1803,3296,Fitness Center|Off-Street Parking|Secure Entrance|Washer/Dryer|Dishwasher|Central Air
+907,42.322528,-71.117603,2,2,1369,2965,Pool|Utilities Included|Off-Street Parking|Secure Entrance|Central Air|Granite Countertops|Dishwasher|Washer/Dryer|Fitness Center|Stainless Steel Appliances
+908,42.375945,-71.083107,3,1,1835,3295,Pool|Fitness Center|Central Air|Secure Entrance
+909,42.348371,-71.137819,0,1,439,756,Stainless Steel Appliances
+910,42.331541,-71.083801,3,1,1829,3591,Secure Entrance|Pool|Washer/Dryer|Fitness Center|Granite Countertops|Off-Street Parking|Picnic Area
+911,42.346861,-71.070113,4,1,2132,4054,Secure Entrance|Washer/Dryer|Dishwasher|Central Air|Utilities Included|Stainless Steel Appliances|Off-Street Parking|Granite Countertops
+912,42.339143,-71.152778,0,1,636,884,Stainless Steel Appliances
+913,42.407016,-71.134778,1,1,863,1734,Washer/Dryer|Off-Street Parking|Stainless Steel Appliances|Granite Countertops|Secure Entrance|Dishwasher|Picnic Area|Utilities Included|Fitness Center|Central Air|Pool
+914,42.335348,-71.105593,3,1,1869,3078,Utilities Included
+915,42.370685,-71.054703,0,1,613,954,Stainless Steel Appliances|Dishwasher
+916,42.337769,-71.137024,3,1,1793,3429,Central Air|Picnic Area|Off-Street Parking|Fitness Center
+917,42.392696,-71.146852,1,1,1192,1823,Central Air|Washer/Dryer|Granite Countertops|Secure Entrance
+918,42.398353,-71.110993,1,1,694,2122,Fitness Center|Central Air|Stainless Steel Appliances|Secure Entrance|Pool|Picnic Area|Washer/Dryer|Dishwasher|Utilities Included|Granite Countertops|Off-Street Parking
+919,42.335745,-71.057785,1,1,975,1941,Stainless Steel Appliances|Pool|Utilities Included|Picnic Area|Fitness Center|Washer/Dryer|Central Air
+920,42.375894,-71.143284,4,3,2188,4086,Central Air|Utilities Included|Dishwasher|Pool|Granite Countertops|Fitness Center
+921,42.34886,-71.087323,3,3,2132,3483,Secure Entrance|Stainless Steel Appliances|Pool|Off-Street Parking
+922,42.324595,-71.054147,0,1,643,862,Dishwasher|Washer/Dryer
+923,42.342827,-71.085917,3,2,1514,3421,Secure Entrance|Washer/Dryer|Stainless Steel Appliances|Dishwasher|Central Air|Pool|Fitness Center|Granite Countertops|Utilities Included
+924,42.322744,-71.08438,2,1,1414,2438,Utilities Included|Fitness Center|Dishwasher|Washer/Dryer|Central Air|Pool|Off-Street Parking
+925,42.372876,-71.142352,3,2,1548,3358,Stainless Steel Appliances|Fitness Center|Central Air|Washer/Dryer|Off-Street Parking
+926,42.342057,-71.091902,4,4,2543,4372,Fitness Center|Secure Entrance|Off-Street Parking|Picnic Area
+927,42.336759,-71.149818,4,4,2427,4012,Central Air|Off-Street Parking
+928,42.352161,-71.067027,2,2,1700,2566,Central Air|Fitness Center|Secure Entrance|Dishwasher
+929,42.384345,-71.15089,0,1,364,1183,Washer/Dryer|Dishwasher|Granite Countertops|Off-Street Parking|Central Air|Secure Entrance|Fitness Center|Picnic Area|Pool
+930,42.374313,-71.112695,3,1,1505,3383,Dishwasher|Secure Entrance|Central Air|Picnic Area|Granite Countertops|Utilities Included|Pool|Washer/Dryer|Off-Street Parking|Fitness Center
+931,42.357077,-71.091971,1,1,737,1991,Off-Street Parking|Stainless Steel Appliances|Granite Countertops|Dishwasher|Utilities Included|Picnic Area|Secure Entrance|Pool
+932,42.345427,-71.086119,4,1,2019,3578,Stainless Steel Appliances|Washer/Dryer|Granite Countertops
+933,42.373303,-71.107384,2,1,1455,2183,Fitness Center|Pool|Washer/Dryer|Secure Entrance|Utilities Included|Picnic Area|Off-Street Parking|Stainless Steel Appliances|Granite Countertops
+934,42.393113,-71.071546,0,1,649,1127,Stainless Steel Appliances|Dishwasher|Fitness Center|Secure Entrance|Picnic Area|Pool|Off-Street Parking|Washer/Dryer|Granite Countertops|Utilities Included|Central Air
+935,42.411477,-71.069524,4,2,1878,3774,Fitness Center|Off-Street Parking
+936,42.333039,-71.106114,1,1,975,2066,Pool|Stainless Steel Appliances|Off-Street Parking
+937,42.317414,-71.142982,0,1,331,1224,Central Air|Off-Street Parking|Granite Countertops|Dishwasher|Pool|Picnic Area|Utilities Included|Fitness Center|Washer/Dryer|Stainless Steel Appliances
+938,42.331731,-71.132839,2,2,1329,3281,Utilities Included|Secure Entrance|Central Air|Picnic Area|Fitness Center
+939,42.355539,-71.098628,3,3,1716,3316,Central Air|Washer/Dryer|Pool|Secure Entrance|Stainless Steel Appliances
+940,42.379167,-71.134617,3,2,1784,3350,Central Air|Secure Entrance|Fitness Center|Stainless Steel Appliances|Picnic Area|Pool|Dishwasher
+941,42.398169,-71.134703,2,2,1361,3014,Granite Countertops|Washer/Dryer|Off-Street Parking|Stainless Steel Appliances|Fitness Center|Picnic Area|Central Air|Utilities Included|Pool
+942,42.400608,-71.136244,1,1,897,1574,Granite Countertops|Fitness Center|Pool|Dishwasher|Washer/Dryer
+943,42.326341,-71.113413,1,1,1227,1562,Washer/Dryer|Granite Countertops|Stainless Steel Appliances|Central Air|Off-Street Parking|Pool|Fitness Center|Dishwasher
+944,42.337065,-71.056133,3,2,1688,3499,Pool|Picnic Area|Dishwasher|Stainless Steel Appliances|Fitness Center|Granite Countertops|Utilities Included|Off-Street Parking|Washer/Dryer|Secure Entrance|Central Air
+945,42.340248,-71.107759,3,2,2135,3219,Secure Entrance|Central Air|Dishwasher|Granite Countertops|Utilities Included|Off-Street Parking|Washer/Dryer|Stainless Steel Appliances|Pool|Fitness Center
+946,42.37903,-71.108333,1,1,1153,2032,Pool|Secure Entrance|Off-Street Parking|Dishwasher|Utilities Included|Central Air|Washer/Dryer|Granite Countertops|Picnic Area|Fitness Center|Stainless Steel Appliances
+947,42.331171,-71.124643,1,1,867,1361,Central Air
+948,42.36091,-71.097232,4,1,2319,4669,Utilities Included|Fitness Center|Central Air|Picnic Area|Pool|Granite Countertops|Off-Street Parking|Dishwasher|Washer/Dryer
+949,42.398291,-71.06582,2,1,1313,2126,Secure Entrance|Washer/Dryer
+950,42.413397,-71.100244,0,1,481,986,Fitness Center|Washer/Dryer|Dishwasher|Utilities Included|Granite Countertops|Central Air|Off-Street Parking
+951,42.371347,-71.145713,4,1,2475,4149,Stainless Steel Appliances|Central Air|Granite Countertops
+952,42.402575,-71.105941,3,3,1568,3565,Dishwasher|Fitness Center|Picnic Area|Pool|Stainless Steel Appliances
+953,42.401298,-71.065864,3,1,1938,3053,Secure Entrance
+954,42.376148,-71.143413,4,3,1982,4154,Washer/Dryer|Secure Entrance|Granite Countertops|Pool|Off-Street Parking|Central Air|Picnic Area|Stainless Steel Appliances|Utilities Included|Fitness Center|Dishwasher
+955,42.318282,-71.063717,1,1,723,1684,Central Air|Granite Countertops
+956,42.324997,-71.111889,0,1,710,907,Picnic Area
+957,42.374236,-71.126749,1,1,932,1810,Dishwasher
+958,42.366832,-71.083347,2,2,1248,2821,Dishwasher|Picnic Area|Utilities Included
+959,42.315368,-71.132375,0,1,273,929,Dishwasher|Fitness Center|Central Air|Granite Countertops|Pool
+960,42.344441,-71.113677,2,2,1171,2818,Stainless Steel Appliances|Washer/Dryer|Off-Street Parking
+961,42.361085,-71.129255,2,2,1868,2223,Dishwasher|Pool|Picnic Area
+962,42.388473,-71.069762,0,1,489,1056,Off-Street Parking|Central Air|Picnic Area|Fitness Center|Dishwasher|Pool|Stainless Steel Appliances|Utilities Included|Secure Entrance
+963,42.368413,-71.110683,0,1,257,1250,Off-Street Parking|Granite Countertops|Utilities Included|Pool|Dishwasher|Central Air|Secure Entrance|Washer/Dryer|Fitness Center|Picnic Area
+964,42.344552,-71.145794,2,1,1258,2648,Picnic Area|Utilities Included|Pool|Stainless Steel Appliances|Fitness Center|Washer/Dryer|Granite Countertops|Central Air|Secure Entrance|Dishwasher
+965,42.322829,-71.130541,4,1,2342,4467,Secure Entrance|Washer/Dryer|Off-Street Parking|Central Air|Utilities Included|Pool|Fitness Center|Dishwasher|Picnic Area
+966,42.327729,-71.120367,1,1,959,1564,Picnic Area
+967,42.324173,-71.137174,2,2,1664,3329,Pool|Washer/Dryer|Dishwasher|Secure Entrance|Central Air|Stainless Steel Appliances|Granite Countertops|Fitness Center|Picnic Area
+968,42.412951,-71.138537,3,1,1687,3542,Stainless Steel Appliances|Picnic Area
+969,42.334451,-71.124482,2,1,966,2613,Granite Countertops|Secure Entrance|Utilities Included|Central Air|Dishwasher
+970,42.362228,-71.119836,4,3,2324,3789,Washer/Dryer|Granite Countertops|Off-Street Parking|Utilities Included|Fitness Center|Pool|Secure Entrance|Dishwasher|Central Air|Picnic Area
+971,42.413147,-71.136802,2,1,1358,2319,Central Air|Off-Street Parking
+972,42.407104,-71.12404,2,1,1287,2246,Washer/Dryer
+973,42.317406,-71.133542,0,1,304,1013,Pool|Off-Street Parking|Stainless Steel Appliances|Fitness Center|Central Air|Dishwasher|Washer/Dryer
+974,42.383387,-71.076028,2,2,1211,3052,Off-Street Parking|Pool
+975,42.394319,-71.095772,3,3,1619,3305,Picnic Area|Secure Entrance|Fitness Center|Pool|Granite Countertops
+976,42.347108,-71.066173,1,1,526,1876,Off-Street Parking|Dishwasher|Central Air|Secure Entrance|Washer/Dryer|Granite Countertops|Stainless Steel Appliances|Utilities Included|Pool
+977,42.372751,-71.110665,0,1,507,1028,Utilities Included|Stainless Steel Appliances|Dishwasher|Fitness Center|Pool|Granite Countertops|Off-Street Parking|Central Air|Washer/Dryer|Picnic Area|Secure Entrance
+978,42.402689,-71.118959,1,1,674,1947,Pool|Stainless Steel Appliances|Picnic Area|Fitness Center|Granite Countertops
+979,42.322496,-71.123803,1,1,1111,1679,Stainless Steel Appliances|Off-Street Parking|Washer/Dryer|Granite Countertops|Central Air|Utilities Included|Fitness Center|Secure Entrance
+980,42.316669,-71.112647,0,1,283,999,Off-Street Parking|Granite Countertops
+981,42.378441,-71.10903,4,3,2766,4051,Fitness Center|Utilities Included|Pool|Central Air|Granite Countertops|Secure Entrance
+982,42.32438,-71.146781,3,1,1886,3833,Granite Countertops|Secure Entrance|Off-Street Parking|Pool|Stainless Steel Appliances
+983,42.388435,-71.07747,0,1,740,1024,Off-Street Parking|Granite Countertops|Pool|Secure Entrance
+984,42.405416,-71.132272,3,1,1646,2737,Central Air|Off-Street Parking
+985,42.385652,-71.089774,3,1,1886,3198,Secure Entrance|Fitness Center|Pool|Stainless Steel Appliances|Off-Street Parking|Picnic Area|Granite Countertops|Washer/Dryer|Utilities Included|Central Air
+986,42.34308,-71.134799,2,1,1429,2477,Pool|Washer/Dryer
+987,42.414429,-71.08166,1,1,1014,1803,Fitness Center|Washer/Dryer|Granite Countertops|Pool|Central Air|Picnic Area|Secure Entrance|Utilities Included|Dishwasher|Stainless Steel Appliances
+988,42.400163,-71.062631,1,1,807,1525,Picnic Area|Utilities Included
+989,42.329661,-71.12214,4,3,2111,3130,Washer/Dryer
+990,42.337459,-71.067404,0,1,579,900,Off-Street Parking
+991,42.400653,-71.099977,0,1,370,1011,Secure Entrance|Dishwasher|Washer/Dryer
+992,42.41144,-71.060283,2,1,1107,2165,Utilities Included|Dishwasher|Granite Countertops
+993,42.351499,-71.089219,0,1,317,1144,Pool|Dishwasher|Fitness Center|Secure Entrance|Off-Street Parking|Stainless Steel Appliances|Central Air|Washer/Dryer|Utilities Included
+994,42.373245,-71.103232,3,1,2084,3565,Off-Street Parking|Dishwasher|Central Air|Fitness Center
+995,42.371356,-71.1188,3,2,1494,2945,Fitness Center
+996,42.358984,-71.077103,3,1,1715,3563,Utilities Included|Off-Street Parking|Secure Entrance|Granite Countertops|Central Air
+997,42.368414,-71.119854,0,1,282,1001,Fitness Center|Granite Countertops|Off-Street Parking|Utilities Included|Stainless Steel Appliances|Picnic Area|Dishwasher|Pool|Secure Entrance|Washer/Dryer
+998,42.414687,-71.057045,2,1,1070,2710,Picnic Area|Stainless Steel Appliances|Fitness Center|Central Air|Secure Entrance|Granite Countertops|Dishwasher|Pool
+999,42.40006,-71.063392,3,2,1963,3094,Central Air|Pool
+1000,42.372001,-71.068948,4,4,1797,4550,Central Air
